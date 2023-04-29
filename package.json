@@ -1,0 +1,19 @@
+{
+  "name": "datfilter",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "datf": "./bin/datf.js"
+  },
+  "main": "cli.js",
+  "scripts": {
+    "start": "datf 'dat/FB Alpha v0.2.97.29 (ClrMame Pro XML).dat' -t dat/gamelist.cps1.txt -u -o 'dat/fba v0.2.97.29 - cps1.dat'"
+  },
+  "keywords": [],
+  "author": "Yohan Lasorsa",
+  "license": "MIT",
+  "dependencies": {
+    "fast-xml-parser": "^4.2.2",
+    "minimist": "^1.2.8"
+  }
+}
