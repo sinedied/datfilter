@@ -7,7 +7,7 @@
   },
   "main": "cli.js",
   "scripts": {
-    "start": "datf 'dat/FB Alpha v0.2.97.29 (ClrMame Pro XML).dat' -t dat/gamelist.cps1.txt -u -o 'dat/fba v0.2.97.29 - cps1.dat'"
+    "start": "datf 'dat/FB Alpha v0.2.97.29 (ClrMame Pro XML).dat' -t dat/gamelist.cps1.txt -u -o 'dat/out/fba v0.2.97.29 - cps1.dat'"
   },
   "keywords": [],
   "author": "Yohan Lasorsa",

@@ -1,0 +1,1146 @@
+<?xml version="1.0"?>
+<datafile>
+  <header>
+    <name>FB Alpha - Arcade Games</name>
+    <description>FB Alpha v0.2.97.29 Arcade Games</description>
+    <category>Standard DatFile</category>
+    <version>0.2.97.29</version>
+    <author>FB Alpha</author>
+    <homepage>http://www.barryharris.me.uk/</homepage>
+    <url>http://www.barryharris.me.uk/</url>
+    <clrmamepro forcenodump="ignore"></clrmamepro>
+  </header>
+  <game name="1941">
+    <description>1941 - Counter Attack (900227 World)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="41em_30.11f" size="131072" crc="4249ec61"></rom>
+    <rom name="41em_35.11h" size="131072" crc="ddbee5eb"></rom>
+    <rom name="41em_31.12f" size="131072" crc="584e88e5"></rom>
+    <rom name="41em_36.12h" size="131072" crc="3cfc31d0"></rom>
+    <rom name="41-32m.8h" size="524288" crc="4e9648ca"></rom>
+    <rom name="41-5m.7a" size="524288" crc="01d1cb11"></rom>
+    <rom name="41-7m.9a" size="524288" crc="aeaa3509"></rom>
+    <rom name="41-1m.3a" size="524288" crc="ff77985a"></rom>
+    <rom name="41-3m.5a" size="524288" crc="983be58f"></rom>
+    <rom name="41_9.12b" size="65536" crc="0f9d8527"></rom>
+    <rom name="41_18.11c" size="131072" crc="d1f15aeb"></rom>
+    <rom name="41_19.12c" size="131072" crc="15aec3a6"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="yi24b.1a" size="279" crc="3004dcdf"></rom>
+    <rom name="iob1.11e" size="279" crc="3abc0700"></rom>
+  </game>
+  <game name="dino">
+    <description>Cadillacs &amp; Dinosaurs (930201 etc)</description>
+    <year>1993</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="cde_23a.8f" size="524288" crc="8f4e585e"></rom>
+    <rom name="cde_22a.7f" size="524288" crc="9278aa12"></rom>
+    <rom name="cde_21a.6f" size="524288" crc="66d23de2"></rom>
+    <rom name="cd-1m.3a" size="524288" crc="8da4f917"></rom>
+    <rom name="cd-3m.5a" size="524288" crc="6c40f603"></rom>
+    <rom name="cd-2m.4a" size="524288" crc="09c8fc2d"></rom>
+    <rom name="cd-4m.6a" size="524288" crc="637ff38f"></rom>
+    <rom name="cd-5m.7a" size="524288" crc="470befee"></rom>
+    <rom name="cd-7m.9a" size="524288" crc="22bfb7a3"></rom>
+    <rom name="cd-6m.8a" size="524288" crc="e7599ac4"></rom>
+    <rom name="cd-8m.10a" size="524288" crc="211b4b15"></rom>
+    <rom name="cd_q.5k" size="131072" crc="605fdb0b"></rom>
+    <rom name="cd-q1.1k" size="524288" crc="60927775"></rom>
+    <rom name="cd-q2.2k" size="524288" crc="770f4c47"></rom>
+    <rom name="cd-q3.3k" size="524288" crc="2f273ffc"></rom>
+    <rom name="cd-q4.4k" size="524288" crc="2c67821d"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg2" size="279" crc="4386879a"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="cd63b.1a" size="279" crc="ef72e902"></rom>
+    <rom name="iob1.12d" size="279" crc="3abc0700"></rom>
+    <rom name="bprg1.11d" size="279" crc="31793da7"></rom>
+    <rom name="ioc1.ic1" size="279" crc="0d182081"></rom>
+    <rom name="d7l1.7l" size="279" crc="27b7410d"></rom>
+    <rom name="d8l1.8l" size="279" crc="539fc7da"></rom>
+    <rom name="d9k2.9k" size="279" crc="cd85a156"></rom>
+    <rom name="d10f1.10f" size="279" crc="6619c494"></rom>
+  </game>
+  <game name="cworld2j">
+    <description>Capcom World 2 (920611 Japan)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="q5_36.12f" size="131072" crc="38a08099"></rom>
+    <rom name="q5_42.12h" size="131072" crc="4d29b3a4"></rom>
+    <rom name="q5_37.13f" size="131072" crc="eb547ebc"></rom>
+    <rom name="q5_43.13h" size="131072" crc="3ef65ea8"></rom>
+    <rom name="q5_34.10f" size="131072" crc="7fcc1317"></rom>
+    <rom name="q5_40.10h" size="131072" crc="7f14b7b4"></rom>
+    <rom name="q5_35.11f" size="131072" crc="abacee26"></rom>
+    <rom name="q5_41.11h" size="131072" crc="d3654067"></rom>
+    <rom name="q5_09.4b" size="131072" crc="48496d80"></rom>
+    <rom name="q5_01.4a" size="131072" crc="c5453f56"></rom>
+    <rom name="q5_13.9b" size="131072" crc="c741ac52"></rom>
+    <rom name="q5_05.9a" size="131072" crc="143e068f"></rom>
+    <rom name="q5_24.5e" size="131072" crc="b419d139"></rom>
+    <rom name="q5_17.5c" size="131072" crc="bd3b4d11"></rom>
+    <rom name="q5_38.8h" size="131072" crc="9c24670c"></rom>
+    <rom name="q5_32.8f" size="131072" crc="3ef9c7c2"></rom>
+    <rom name="q5_10.5b" size="131072" crc="119e5e93"></rom>
+    <rom name="q5_02.5a" size="131072" crc="a2cadcbe"></rom>
+    <rom name="q5_14.10b" size="131072" crc="a8755f82"></rom>
+    <rom name="q5_06.10a" size="131072" crc="c92a91fc"></rom>
+    <rom name="q5_25.7e" size="131072" crc="979237cb"></rom>
+    <rom name="q5_18.7c" size="131072" crc="c57da03c"></rom>
+    <rom name="q5_39.9h" size="131072" crc="a5839b25"></rom>
+    <rom name="q5_33.9f" size="131072" crc="04d03930"></rom>
+    <rom name="q5_23.13b" size="65536" crc="e14dc524"></rom>
+    <rom name="q5_30.12c" size="131072" crc="d10c1b68"></rom>
+    <rom name="q5_31.13c" size="131072" crc="7d17e496"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="q522b.1a" size="279" status="nodump"></rom>
+    <rom name="lwio.12e" size="279" crc="ad52b90c"></rom>
+    <rom name="ioc1.ic1" size="279" crc="0d182081"></rom>
+  </game>
+  <game name="captcomm">
+    <description>Captain Commando (911202 other country)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="cce_23f.8f" size="524288" crc="42c814c5"></rom>
+    <rom name="cc_22f.7f" size="524288" crc="0fd34195"></rom>
+    <rom name="cc_24f.9e" size="131072" crc="3a794f25"></rom>
+    <rom name="cc_28f.9f" size="131072" crc="fc3c2906"></rom>
+    <rom name="cc-5m.3a" size="524288" crc="7261d8ba"></rom>
+    <rom name="cc-7m.5a" size="524288" crc="6a60f949"></rom>
+    <rom name="cc-1m.4a" size="524288" crc="00637302"></rom>
+    <rom name="cc-3m.6a" size="524288" crc="cc87cf61"></rom>
+    <rom name="cc-6m.7a" size="524288" crc="28718bed"></rom>
+    <rom name="cc-8m.9a" size="524288" crc="d4acc53a"></rom>
+    <rom name="cc-2m.8a" size="524288" crc="0c69f151"></rom>
+    <rom name="cc-4m.10a" size="524288" crc="1f9ebb97"></rom>
+    <rom name="cc_09.11a" size="65536" crc="698e8b58"></rom>
+    <rom name="cc_18.11c" size="131072" crc="6de2c2db"></rom>
+    <rom name="cc_19.12c" size="131072" crc="b99091ae"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="cc63b.1a" size="279" crc="cae8f0f9"></rom>
+    <rom name="iob1.12d" size="279" crc="3abc0700"></rom>
+    <rom name="ccprg1.11d" size="279" crc="e1c225c4"></rom>
+    <rom name="ioc1.ic7" size="279" crc="0d182081"></rom>
+    <rom name="c632b.ic1" size="279" crc="0fbd9270"></rom>
+  </game>
+  <game name="cawing">
+    <description>Carrier Air Wing (U.S. navy 901012 etc)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="cae_30a.11f" size="131072" crc="91fceacd"></rom>
+    <rom name="cae_35a.11h" size="131072" crc="3ef03083"></rom>
+    <rom name="cae_31a.12f" size="131072" crc="e5b75caf"></rom>
+    <rom name="cae_36a.12h" size="131072" crc="c73fd713"></rom>
+    <rom name="ca-32m.8h" size="524288" crc="0c4837d4"></rom>
+    <rom name="ca-5m.7a" size="524288" crc="66d4cc37"></rom>
+    <rom name="ca-7m.9a" size="524288" crc="b6f896f2"></rom>
+    <rom name="ca-1m.3a" size="524288" crc="4d0620fd"></rom>
+    <rom name="ca-3m.5a" size="524288" crc="0b0341c3"></rom>
+    <rom name="ca_9.12b" size="65536" crc="96fe7485"></rom>
+    <rom name="ca_18.11c" size="131072" crc="4a613a2c"></rom>
+    <rom name="ca_19.12c" size="131072" crc="74584493"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="ca24b.1a" size="279" crc="76ec0b1c"></rom>
+    <rom name="iob1.11e" size="279" crc="3abc0700"></rom>
+  </game>
+  <game name="cps1demo">
+    <description>Chaos Demo (CPS-1) [Demo]</description>
+    <year>2000</year>
+    <manufacturer>Chaos</manufacturer>
+    <rom name="cd30-36.bin" size="131072" crc="5eb617d6"></rom>
+    <rom name="cd35-42.bin" size="131072" crc="1f1c0a62"></rom>
+    <rom name="cd31-37.bin" size="131072" crc="7ee8cdcd"></rom>
+    <rom name="cd36-43.bin" size="131072" crc="7ee8cdcd"></rom>
+    <rom name="ff-32m.8h" size="524288" crc="c747696e"></rom>
+    <rom name="cd05-05m.bin" size="524288" crc="35dc6153"></rom>
+    <rom name="cd07-07m.bin" size="524288" crc="baf08a38"></rom>
+    <rom name="cd01-01m.bin" size="524288" crc="3ad8e790"></rom>
+    <rom name="cd03-03m.bin" size="524288" crc="fb5186f3"></rom>
+    <rom name="ff_09.12b" size="65536" crc="b8367eb5"></rom>
+    <rom name="ff_18.11c" size="131072" crc="375c66e7"></rom>
+    <rom name="ff_19.12c" size="131072" crc="1ef137f9"></rom>
+  </game>
+  <game name="dynwar">
+    <description>Dynasty Wars (US set 1)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="30.11f" size="131072" crc="f9ec6d68"></rom>
+    <rom name="35.11h" size="131072" crc="e41fff2f"></rom>
+    <rom name="31.12f" size="131072" crc="e3de76ff"></rom>
+    <rom name="36.12h" size="131072" crc="7a13cfbf"></rom>
+    <rom name="tkm-9.8h" size="524288" crc="93654bcf"></rom>
+    <rom name="tkm-5.7a" size="524288" crc="f64bb6a0"></rom>
+    <rom name="tkm-8.9a" size="524288" crc="21fe6274"></rom>
+    <rom name="tkm-6.3a" size="524288" crc="0bf228cb"></rom>
+    <rom name="tkm-7.5a" size="524288" crc="1255dfb1"></rom>
+    <rom name="tkm-1.8a" size="524288" crc="44f7661e"></rom>
+    <rom name="tkm-4.10a" size="524288" crc="a54c515d"></rom>
+    <rom name="tkm-2.4a" size="524288" crc="ca5c687c"></rom>
+    <rom name="tkm-3.6a" size="524288" crc="f9fe6591"></rom>
+    <rom name="tke_17.12b" size="65536" crc="b3b79d4f"></rom>
+    <rom name="tke_18.11c" size="131072" crc="ac6e307d"></rom>
+    <rom name="tke_19.12c" size="131072" crc="068741db"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="tk24b1.1a" size="279" crc="ae4a7645"></rom>
+    <rom name="lwio.11e" size="279" crc="ad52b90c"></rom>
+  </game>
+  <game name="ffight">
+    <description>Final Fight (World, set 1)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="ff_36.11f" size="131072" crc="f9a5ce83"></rom>
+    <rom name="ff_42.11h" size="131072" crc="65f11215"></rom>
+    <rom name="ff_37.12f" size="131072" crc="e1033784"></rom>
+    <rom name="ffe_43.12h" size="131072" crc="995e968a"></rom>
+    <rom name="ff-32m.8h" size="524288" crc="c747696e"></rom>
+    <rom name="ff-5m.7a" size="524288" crc="9c284108"></rom>
+    <rom name="ff-7m.9a" size="524288" crc="a7584dfb"></rom>
+    <rom name="ff-1m.3a" size="524288" crc="0b605e44"></rom>
+    <rom name="ff-3m.5a" size="524288" crc="52291cd2"></rom>
+    <rom name="ff_09.12b" size="65536" crc="b8367eb5"></rom>
+    <rom name="ff_18.11c" size="131072" crc="375c66e7"></rom>
+    <rom name="ff_19.12c" size="131072" crc="1ef137f9"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="s224b.1a" size="279" crc="cdc4413e"></rom>
+    <rom name="iob1.11e" size="279" crc="3abc0700"></rom>
+  </game>
+  <game name="forgottn">
+    <description>Forgotten Worlds (World)</description>
+    <year>1988</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="lw11.12f" size="131072" crc="73e920b7"></rom>
+    <rom name="lw15.12h" size="131072" crc="50d7012d"></rom>
+    <rom name="lw10.13f" size="131072" crc="bea45994"></rom>
+    <rom name="lw14.13h" size="131072" crc="539b2339"></rom>
+    <rom name="lw-07.10g" size="524288" crc="fd252a26"></rom>
+    <rom name="lw_2.2b" size="131072" crc="4bd75fee"></rom>
+    <rom name="lw_1.2a" size="131072" crc="65f41485"></rom>
+    <rom name="lw-08.9b" size="524288" crc="25a8e43c"></rom>
+    <rom name="lw-05.6d" size="524288" crc="e4552fd7"></rom>
+    <rom name="lw_30.8h" size="131072" crc="b385954e"></rom>
+    <rom name="lw_29.8f" size="131072" crc="7bda1ac6"></rom>
+    <rom name="lw_4.3b" size="131072" crc="50cf757f"></rom>
+    <rom name="lw_3.3a" size="131072" crc="c03ef278"></rom>
+    <rom name="lw_32.9h" size="131072" crc="30967a15"></rom>
+    <rom name="lw_31.9f" size="131072" crc="c49d37fb"></rom>
+    <rom name="lw-02.6b" size="524288" crc="43e6c5c8"></rom>
+    <rom name="lw_14.10b" size="131072" crc="82862cce"></rom>
+    <rom name="lw_13.10a" size="131072" crc="b81c0e96"></rom>
+    <rom name="lw-06.9d" size="524288" crc="5b9edffc"></rom>
+    <rom name="lw_26.10e" size="131072" crc="57bcd032"></rom>
+    <rom name="lw_25.10c" size="131072" crc="bac91554"></rom>
+    <rom name="lw_16.11b" size="131072" crc="40b26554"></rom>
+    <rom name="lw_15.11a" size="131072" crc="1b7d2e07"></rom>
+    <rom name="lw_28.11e" size="131072" crc="a805ad30"></rom>
+    <rom name="lw_27.11c" size="131072" crc="103c1bd2"></rom>
+    <rom name="lw_00.13c" size="65536" crc="59df2a63"></rom>
+    <rom name="lw-03u.12e" size="131072" crc="807d051f"></rom>
+    <rom name="lw-04u.13e" size="131072" crc="e6cd098e"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="lw621.1a" size="279" crc="5eec6ce9"></rom>
+    <rom name="lwio.12b" size="279" crc="ad52b90c"></rom>
+  </game>
+  <game name="cps1frog">
+    <description>Frog Feast (CPS-1) [Homebrew]</description>
+    <year>2006</year>
+    <manufacturer>Rastersoft (Homebrew)</manufacturer>
+    <rom name="frog30-36.bin" size="131072" crc="8eb8ddbe"></rom>
+    <rom name="frog35-42.bin" size="131072" crc="acb5a988"></rom>
+    <rom name="frog31-37.bin" size="131072" crc="154803cc"></rom>
+    <rom name="frog36-43.bin" size="131072" crc="154803cc"></rom>
+    <rom name="frog32-32m.bin" size="524288" crc="75660aac"></rom>
+    <rom name="frog05-05m.bin" size="524288" crc="7bbc4b54"></rom>
+    <rom name="frog07-07m.bin" size="524288" crc="0beadd80"></rom>
+    <rom name="frog01-01m.bin" size="524288" crc="f84d02bb"></rom>
+    <rom name="frog03-03m.bin" size="524288" crc="d784a5b0"></rom>
+    <rom name="frog09-09.bin" size="65536" crc="3ac7fb5c"></rom>
+    <rom name="frog18-18.bin" size="131072" crc="65d1ef07"></rom>
+    <rom name="frog19-19.bin" size="131072" crc="7ee8cdcd"></rom>
+  </game>
+  <game name="ganbare">
+    <description>Ganbare! Marine Kun (Marine 2K0411 JPN)</description>
+    <year>2000</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="mrnj_23d.8f" size="524288" crc="f929be72"></rom>
+    <rom name="mrnj_01.3a" size="524288" crc="3f878020"></rom>
+    <rom name="mrnj_02.4a" size="524288" crc="3e5624d8"></rom>
+    <rom name="mrnj_03.5a" size="524288" crc="d1e61f96"></rom>
+    <rom name="mrnj_04.6a" size="524288" crc="d241971b"></rom>
+    <rom name="mrnj_05.7a" size="524288" crc="c0a14562"></rom>
+    <rom name="mrnj_06.8a" size="524288" crc="e6a71dfc"></rom>
+    <rom name="mrnj_07.9a" size="524288" crc="99afb6c7"></rom>
+    <rom name="mrnj_08.10a" size="524288" crc="52882c20"></rom>
+    <rom name="mrnj_09.12a" size="65536" crc="62470d72"></rom>
+    <rom name="mrnj_18.11c" size="131072" crc="08e13940"></rom>
+    <rom name="mrnj_19.12c" size="131072" crc="5fa59927"></rom>
+    <rom name="m48t35y-70pc1.9n" size="32768" crc="96107b4a"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="gbpr2.1a" size="279" status="nodump"></rom>
+    <rom name="iob1.12d" size="279" crc="3abc0700"></rom>
+    <rom name="bprg1.11d" size="279" crc="31793da7"></rom>
+    <rom name="ioc1.ic7" size="279" crc="0d182081"></rom>
+    <rom name="c632.ic1" size="279" crc="0fbd9270"></rom>
+  </game>
+  <game name="ghouls">
+    <description>Ghouls&apos;n Ghosts (World)</description>
+    <year>1988</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="dme_29.10h" size="131072" crc="166a58a2"></rom>
+    <rom name="dme_30.10j" size="131072" crc="7ac8407a"></rom>
+    <rom name="dme_27.9h" size="131072" crc="f734b2be"></rom>
+    <rom name="dme_28.9j" size="131072" crc="03d3e714"></rom>
+    <rom name="dm-17.7j" size="524288" crc="3ea1b0f2"></rom>
+    <rom name="dm-05.3a" size="524288" crc="0ba9c0b0"></rom>
+    <rom name="dm-07.3f" size="524288" crc="5d760ab9"></rom>
+    <rom name="dm-06.3c" size="524288" crc="4ba90b59"></rom>
+    <rom name="dm-08.3g" size="524288" crc="4bdee9de"></rom>
+    <rom name="09.4a" size="65536" crc="ae24bb19"></rom>
+    <rom name="18.7a" size="65536" crc="d34e271a"></rom>
+    <rom name="13.4e" size="65536" crc="3f70dd37"></rom>
+    <rom name="22.7e" size="65536" crc="7e69e2e6"></rom>
+    <rom name="11.4c" size="65536" crc="37c9b6c6"></rom>
+    <rom name="20.7c" size="65536" crc="2f1345b4"></rom>
+    <rom name="15.4g" size="65536" crc="3c2a212a"></rom>
+    <rom name="24.7g" size="65536" crc="889aac05"></rom>
+    <rom name="10.4b" size="65536" crc="bcc0f28c"></rom>
+    <rom name="19.7b" size="65536" crc="2a40166a"></rom>
+    <rom name="14.4f" size="65536" crc="20f85c03"></rom>
+    <rom name="23.7f" size="65536" crc="8426144b"></rom>
+    <rom name="12.4d" size="65536" crc="da088d61"></rom>
+    <rom name="21.7d" size="65536" crc="17e11df0"></rom>
+    <rom name="16.4h" size="65536" crc="f187ba1c"></rom>
+    <rom name="25.7h" size="65536" crc="29f79c78"></rom>
+    <rom name="26.10a" size="65536" crc="3692f6e5"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="dm620.2a" size="279" crc="f6e5f727"></rom>
+    <rom name="lwio.8i" size="279" crc="ad52b90c"></rom>
+  </game>
+  <game name="knights">
+    <description>Knights of the Round (911127 etc)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="kr_23e.8f" size="524288" crc="1b3997eb"></rom>
+    <rom name="kr_22.7f" size="524288" crc="d0b671a9"></rom>
+    <rom name="kr-5m.3a" size="524288" crc="9e36c1a4"></rom>
+    <rom name="kr-7m.5a" size="524288" crc="c5832cae"></rom>
+    <rom name="kr-1m.4a" size="524288" crc="f095be2d"></rom>
+    <rom name="kr-3m.6a" size="524288" crc="179dfd96"></rom>
+    <rom name="kr-6m.7a" size="524288" crc="1f4298d2"></rom>
+    <rom name="kr-8m.9a" size="524288" crc="37fa8751"></rom>
+    <rom name="kr-2m.8a" size="524288" crc="0200bc3d"></rom>
+    <rom name="kr-4m.10a" size="524288" crc="0bb2b4e7"></rom>
+    <rom name="kr_09.11a" size="65536" crc="5e44d9ee"></rom>
+    <rom name="kr_18.11c" size="131072" crc="da69d15f"></rom>
+    <rom name="kr_19.12c" size="131072" crc="bfc654e9"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="kr63b.1a" size="279" crc="fd5b6522"></rom>
+    <rom name="iob1.12d" size="279" crc="3abc0700"></rom>
+    <rom name="bprg1.11d" size="279" crc="31793da7"></rom>
+    <rom name="ioc1.ic7" size="279" crc="0d182081"></rom>
+    <rom name="c632.ic1" size="279" crc="0fbd9270"></rom>
+  </game>
+  <game name="msword">
+    <description>Magic Sword - heroic fantasy (25.07.1990 other country)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="mse_30.11f" size="131072" crc="03fc8dbc"></rom>
+    <rom name="mse_35.11h" size="131072" crc="d5bf66cd"></rom>
+    <rom name="mse_31.12f" size="131072" crc="30332bcf"></rom>
+    <rom name="mse_36.12h" size="131072" crc="8f7d6ce9"></rom>
+    <rom name="ms-32m.8h" size="524288" crc="2475ddfc"></rom>
+    <rom name="ms-5m.7a" size="524288" crc="c00fe7e2"></rom>
+    <rom name="ms-7m.9a" size="524288" crc="4ccacac5"></rom>
+    <rom name="ms-1m.3a" size="524288" crc="0d2bbe00"></rom>
+    <rom name="ms-3m.5a" size="524288" crc="3a1a5bf4"></rom>
+    <rom name="ms_09.12b" size="65536" crc="57b29519"></rom>
+    <rom name="ms_18.11c" size="131072" crc="fb64e90d"></rom>
+    <rom name="ms_19.12c" size="131072" crc="74f892b9"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="ms24b.1a" size="279" crc="636dbe6d"></rom>
+    <rom name="iob1.11e" size="279" crc="3abc0700"></rom>
+  </game>
+  <game name="megaman">
+    <description>Mega Man - the power battle (951006 USA)</description>
+    <year>1995</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="rcmu_23b.8f" size="524288" crc="1cd33c7a"></rom>
+    <rom name="rcmu_22b.7f" size="524288" crc="708268c4"></rom>
+    <rom name="rcmu_21a.6f" size="524288" crc="4376ea95"></rom>
+    <rom name="rcm_01.3a" size="524288" crc="6ecdf13f"></rom>
+    <rom name="rcm_02.4a" size="524288" crc="944d4f0f"></rom>
+    <rom name="rcm_03.5a" size="524288" crc="36f3073c"></rom>
+    <rom name="rcm_04.6a" size="524288" crc="54e622ff"></rom>
+    <rom name="rcm_05.7a" size="524288" crc="5dd131fd"></rom>
+    <rom name="rcm_06.8a" size="524288" crc="f0faf813"></rom>
+    <rom name="rcm_07.9a" size="524288" crc="826de013"></rom>
+    <rom name="rcm_08.10a" size="524288" crc="fbff64cf"></rom>
+    <rom name="rcm_10.3c" size="524288" crc="4dc8ada9"></rom>
+    <rom name="rcm_11.4c" size="524288" crc="f2b9ee06"></rom>
+    <rom name="rcm_12.5c" size="524288" crc="fed5f203"></rom>
+    <rom name="rcm_13.6c" size="524288" crc="5069d4a9"></rom>
+    <rom name="rcm_14.7c" size="524288" crc="303be3bd"></rom>
+    <rom name="rcm_15.8c" size="524288" crc="4f2d372f"></rom>
+    <rom name="rcm_16.9c" size="524288" crc="93d97fde"></rom>
+    <rom name="rcm_17.10c" size="524288" crc="92371042"></rom>
+    <rom name="rcm_09.11a" size="65536" crc="22ac8f5f"></rom>
+    <rom name="rcm_18.11c" size="131072" crc="80f1f8aa"></rom>
+    <rom name="rcm_19.12c" size="131072" crc="f257dbe1"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="rcm63b.1a" size="279" crc="84acd494"></rom>
+    <rom name="iob1.12d" size="279" crc="3abc0700"></rom>
+    <rom name="bprg1.11d" size="279" crc="31793da7"></rom>
+    <rom name="ioc1.ic7" size="279" crc="0d182081"></rom>
+    <rom name="c632.ic1" size="279" crc="0fbd9270"></rom>
+  </game>
+  <game name="mtwins">
+    <description>Mega Twins (chiki chiki boys 900619 etc)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="che_30.11f" size="131072" crc="9a2a2db1"></rom>
+    <rom name="che_35.11h" size="131072" crc="a7f96b02"></rom>
+    <rom name="che_31.12f" size="131072" crc="bbff8a99"></rom>
+    <rom name="che_36.12h" size="131072" crc="0fa00c39"></rom>
+    <rom name="ck-32m.8h" size="524288" crc="9b70bd41"></rom>
+    <rom name="ck-5m.7a" size="524288" crc="4ec75f15"></rom>
+    <rom name="ck-7m.9a" size="524288" crc="d85d00d6"></rom>
+    <rom name="ck-1m.3a" size="524288" crc="f33ca9d4"></rom>
+    <rom name="ck-3m.5a" size="524288" crc="0ba2047f"></rom>
+    <rom name="ch_09.12b" size="65536" crc="4d4255b7"></rom>
+    <rom name="ch_18.11c" size="131072" crc="f909e8de"></rom>
+    <rom name="ch_19.12c" size="131072" crc="fc158cf7"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="ck24b.1a" size="279" status="nodump"></rom>
+    <rom name="iob1.11e" size="279" crc="3abc0700"></rom>
+  </game>
+  <game name="mercs">
+    <description>Mercs (900302 etc)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="so2_30e.11f" size="131072" crc="e17f9bf7"></rom>
+    <rom name="so2_35e.11h" size="131072" crc="78e63575"></rom>
+    <rom name="so2_31e.12f" size="131072" crc="51204d36"></rom>
+    <rom name="so2_36e.12h" size="131072" crc="9cfba8b4"></rom>
+    <rom name="so2-32m.8h" size="524288" crc="2eb5cf0c"></rom>
+    <rom name="so2-6m.8a" size="524288" crc="aa6102af"></rom>
+    <rom name="so2-8m.10a" size="524288" crc="839e6869"></rom>
+    <rom name="so2-2m.4a" size="524288" crc="597c2875"></rom>
+    <rom name="so2-4m.6a" size="524288" crc="912a9ca0"></rom>
+    <rom name="so2_24.7d" size="131072" crc="3f254efe"></rom>
+    <rom name="so2_14.7c" size="131072" crc="f5a8905e"></rom>
+    <rom name="so2_26.9d" size="131072" crc="f3aa5a4a"></rom>
+    <rom name="so2_16.9c" size="131072" crc="b43cd1a8"></rom>
+    <rom name="so2_20.3d" size="131072" crc="8ca751a3"></rom>
+    <rom name="so2_10.3c" size="131072" crc="e9f569fd"></rom>
+    <rom name="so2_22.5d" size="131072" crc="fce9a377"></rom>
+    <rom name="so2_12.5c" size="131072" crc="b7df8a06"></rom>
+    <rom name="so2_09.12b" size="65536" crc="d09d7c7a"></rom>
+    <rom name="so2_18.11c" size="131072" crc="bbea1643"></rom>
+    <rom name="so2_19.12c" size="131072" crc="ac58aa71"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="o224b.1a" size="279" crc="c211c8cd"></rom>
+    <rom name="iob1.11e" size="279" crc="3abc0700"></rom>
+    <rom name="c628" size="279" status="nodump"></rom>
+  </game>
+  <game name="mbombrd">
+    <description>Muscle Bomber Duo - ultimate team battle (931206 etc)</description>
+    <year>1993</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="mbde_26.11e" size="131072" crc="72b7451c"></rom>
+    <rom name="mbde_30.11f" size="131072" crc="a036dc16"></rom>
+    <rom name="mbde_27.12e" size="131072" crc="4086f534"></rom>
+    <rom name="mbde_31.12f" size="131072" crc="085f47f0"></rom>
+    <rom name="mbde_24.9e" size="131072" crc="c20895a5"></rom>
+    <rom name="mbde_28.9f" size="131072" crc="2618d5e1"></rom>
+    <rom name="mbde_25.10e" size="131072" crc="9bdb6b11"></rom>
+    <rom name="mbde_29.10f" size="131072" crc="3f52d5e5"></rom>
+    <rom name="mbde_21.6f" size="524288" crc="690c026a"></rom>
+    <rom name="mbde_20.5f" size="524288" crc="b8b2139b"></rom>
+    <rom name="mb-1m.3a" size="524288" crc="41468e06"></rom>
+    <rom name="mb-3m.5a" size="524288" crc="f453aa9e"></rom>
+    <rom name="mb-2m.4a" size="524288" crc="2ffbfea8"></rom>
+    <rom name="mb-4m.6a" size="524288" crc="1eb9841d"></rom>
+    <rom name="mb-5m.7a" size="524288" crc="506b9dc9"></rom>
+    <rom name="mb-7m.9a" size="524288" crc="aff8c2fb"></rom>
+    <rom name="mb-6m.8a" size="524288" crc="b76c70e9"></rom>
+    <rom name="mb-8m.10a" size="524288" crc="e60c9556"></rom>
+    <rom name="mb-10m.3c" size="524288" crc="97976ff5"></rom>
+    <rom name="mb-12m.5c" size="524288" crc="b350a840"></rom>
+    <rom name="mb-11m.4c" size="524288" crc="8fb94743"></rom>
+    <rom name="mb-13m.6c" size="524288" crc="da810d5f"></rom>
+    <rom name="mb_q.5k" size="131072" crc="d6fa76d1"></rom>
+    <rom name="mb-q1.1k" size="524288" crc="0630c3ce"></rom>
+    <rom name="mb-q2.2k" size="524288" crc="354f9c21"></rom>
+    <rom name="mb-q3.3k" size="524288" crc="7838487c"></rom>
+    <rom name="mb-q4.4k" size="524288" crc="ab66e087"></rom>
+    <rom name="mb-q5.1m" size="524288" crc="c789fef2"></rom>
+    <rom name="mb-q6.2m" size="524288" crc="ecb81b61"></rom>
+    <rom name="mb-q7.3m" size="524288" crc="041e49ba"></rom>
+    <rom name="mb-q8.4m" size="524288" crc="59fe702a"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg2" size="279" crc="4386879a"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="mb63b.1a" size="279" crc="b8392f02"></rom>
+    <rom name="iob1.12d" size="279" crc="3abc0700"></rom>
+    <rom name="bprg1.11d" size="279" crc="31793da7"></rom>
+    <rom name="ioc1.ic1" size="279" crc="0d182081"></rom>
+    <rom name="d7l1.7l" size="279" crc="27b7410d"></rom>
+    <rom name="d8l1.8l" size="279" crc="539fc7da"></rom>
+    <rom name="d9k2.9k" size="279" crc="cd85a156"></rom>
+    <rom name="d10f1.10f" size="279" crc="6619c494"></rom>
+  </game>
+  <game name="nemo">
+    <description>Nemo (90 11 30 etc)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="nme_30a.11f" size="131072" crc="d2c03e56"></rom>
+    <rom name="nme_35a.11h" size="131072" crc="5fd31661"></rom>
+    <rom name="nme_31a.12f" size="131072" crc="b2bd4f6f"></rom>
+    <rom name="nme_36a.12h" size="131072" crc="ee9450e3"></rom>
+    <rom name="nm-32m.8h" size="524288" crc="d6d1add3"></rom>
+    <rom name="nm-5m.7a" size="524288" crc="487b8747"></rom>
+    <rom name="nm-7m.9a" size="524288" crc="203dc8c6"></rom>
+    <rom name="nm-1m.3a" size="524288" crc="9e878024"></rom>
+    <rom name="nm-3m.5a" size="524288" crc="bb01e6b6"></rom>
+    <rom name="nme_09.12b" size="65536" crc="0f4b0581"></rom>
+    <rom name="nme_18.11c" size="131072" crc="bab333d4"></rom>
+    <rom name="nme_19.12c" size="131072" crc="2650a0a8"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="nm24b.1a" size="279" crc="7b25bac6"></rom>
+    <rom name="iob1.11e" size="279" crc="3abc0700"></rom>
+  </game>
+  <game name="pang3">
+    <description>Pang! 3 (950601 Euro)</description>
+    <year>1995</year>
+    <manufacturer>Mitchell</manufacturer>
+    <rom name="pa3e_17a.11l" size="524288" crc="a213fa80"></rom>
+    <rom name="pa3e_16a.10l" size="524288" crc="7169ea67"></rom>
+    <rom name="pa3-01m.2c" size="2097152" crc="068a152c"></rom>
+    <rom name="pa3-07m.2f" size="2097152" crc="3a4a619d"></rom>
+    <rom name="pa3_11.11f" size="131072" crc="cb1423a2"></rom>
+    <rom name="pa3_05.10d" size="131072" crc="73a10d5d"></rom>
+    <rom name="pa3_06.11d" size="131072" crc="affa4f82"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="cp1b1f.1f" size="279" crc="3979b8e3"></rom>
+    <rom name="cp1b8k.8k" size="279" crc="8a52ea7a"></rom>
+    <rom name="cp1b9ka.9k" size="279" status="nodump"></rom>
+    <rom name="ioc1.ic7" size="279" crc="0d182081"></rom>
+    <rom name="c632.ic1" size="279" crc="0fbd9270"></rom>
+  </game>
+  <game name="pnickj">
+    <description>Pnickies (940608 Japan)</description>
+    <year>1994</year>
+    <manufacturer>Compile (Capcom license)</manufacturer>
+    <rom name="pnij_36.12f" size="131072" crc="2d4ffb2b"></rom>
+    <rom name="pnij_42.12h" size="131072" crc="c085dfaf"></rom>
+    <rom name="pnij_09.4b" size="131072" crc="48177b0a"></rom>
+    <rom name="pnij_01.4a" size="131072" crc="01a0f311"></rom>
+    <rom name="pnij_13.9b" size="131072" crc="406451b0"></rom>
+    <rom name="pnij_05.9a" size="131072" crc="8c515dc0"></rom>
+    <rom name="pnij_26.5e" size="131072" crc="e2af981e"></rom>
+    <rom name="pnij_18.5c" size="131072" crc="f17a0e56"></rom>
+    <rom name="pnij_38.8h" size="131072" crc="eb75bd8c"></rom>
+    <rom name="pnij_32.8f" size="131072" crc="84560bef"></rom>
+    <rom name="pnij_10.5b" size="131072" crc="c2acc171"></rom>
+    <rom name="pnij_02.5a" size="131072" crc="0e21fc33"></rom>
+    <rom name="pnij_14.10b" size="131072" crc="7fe59b19"></rom>
+    <rom name="pnij_06.10a" size="131072" crc="79f4bfe3"></rom>
+    <rom name="pnij_27.7e" size="131072" crc="83d5cb0e"></rom>
+    <rom name="pnij_19.7c" size="131072" crc="af08b230"></rom>
+    <rom name="pnij_39.9h" size="131072" crc="70fbe579"></rom>
+    <rom name="pnij_33.9f" size="131072" crc="3ed2c680"></rom>
+    <rom name="pnij_17.13b" size="65536" crc="e86f787a"></rom>
+    <rom name="pnij_24.12c" size="131072" crc="5092257d"></rom>
+    <rom name="pnij_25.13c" size="131072" crc="22109aaa"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="pkb10b.1a" size="279" status="nodump"></rom>
+    <rom name="iob1.12e" size="279" crc="3abc0700"></rom>
+    <rom name="ioc1.ic7" size="279" crc="0d182081"></rom>
+    <rom name="c632.ic1" size="279" crc="0fbd9270"></rom>
+  </game>
+  <game name="qad">
+    <description>Quiz &amp; Dragons (capcom quiz game 920701 USA)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="qdu_36a.12f" size="131072" crc="de9c24a0"></rom>
+    <rom name="qdu_42a.12h" size="131072" crc="cfe36f0c"></rom>
+    <rom name="qdu_37a.13f" size="131072" crc="10d22320"></rom>
+    <rom name="qdu_43a.13h" size="131072" crc="15e6beb9"></rom>
+    <rom name="qd_09.4b" size="131072" crc="8c3f9f44"></rom>
+    <rom name="qd_01.4a" size="131072" crc="f688cf8f"></rom>
+    <rom name="qd_13.9b" size="131072" crc="afbd551b"></rom>
+    <rom name="qd_05.9a" size="131072" crc="c3db0910"></rom>
+    <rom name="qd_24.5e" size="131072" crc="2f1bd0ec"></rom>
+    <rom name="qd_17.5c" size="131072" crc="a812f9e2"></rom>
+    <rom name="qd_38.8h" size="131072" crc="ccdddd1f"></rom>
+    <rom name="qd_32.8f" size="131072" crc="a8d295d3"></rom>
+    <rom name="qd_23.13b" size="65536" crc="cfb5264b"></rom>
+    <rom name="qdu_30.12c" size="131072" crc="f190da84"></rom>
+    <rom name="qdu_31.13c" size="131072" crc="b7583f73"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="qd22b.1a" size="279" crc="783c53ab"></rom>
+    <rom name="iob1.12e" size="279" crc="3abc0700"></rom>
+    <rom name="ioc1.ic1" size="279" crc="0d182081"></rom>
+  </game>
+  <game name="qtono2j">
+    <description>Quiz Tonosama no Yabou 2 Zenkoku-ban (tonosama 2 950123 Japan)</description>
+    <year>1995</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="tn2j_30.11e" size="131072" crc="9226eb5e"></rom>
+    <rom name="tn2j_37.11f" size="131072" crc="d1d30da1"></rom>
+    <rom name="tn2j_31.12e" size="131072" crc="015e6a8a"></rom>
+    <rom name="tn2j_38.12f" size="131072" crc="1f139bcc"></rom>
+    <rom name="tn2j_28.9e" size="131072" crc="86d27f71"></rom>
+    <rom name="tn2j_35.9f" size="131072" crc="7a1ab87d"></rom>
+    <rom name="tn2j_29.10e" size="131072" crc="9c384e99"></rom>
+    <rom name="tn2j_36.10f" size="131072" crc="4c4b2a0a"></rom>
+    <rom name="tn2-02m.4a" size="524288" crc="f2016a34"></rom>
+    <rom name="tn2-04m.6a" size="524288" crc="094e0fb1"></rom>
+    <rom name="tn2-01m.3a" size="524288" crc="cb950cf9"></rom>
+    <rom name="tn2-03m.5a" size="524288" crc="18a5bf59"></rom>
+    <rom name="tn2-11m.4c" size="524288" crc="d0edd30b"></rom>
+    <rom name="tn2-13m.6c" size="524288" crc="426621c3"></rom>
+    <rom name="tn2-10m.3c" size="524288" crc="a34ece70"></rom>
+    <rom name="tn2-12m.5c" size="524288" crc="e04ff2f4"></rom>
+    <rom name="tn2j_09.12a" size="65536" crc="e464b969"></rom>
+    <rom name="tn2j_18.11c" size="131072" crc="a40bf9a7"></rom>
+    <rom name="tn2j_19.12c" size="131072" crc="5b3b931e"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="tn2292.1a" size="279" crc="3d899539"></rom>
+    <rom name="iob1.11d" size="279" crc="3abc0700"></rom>
+    <rom name="ioc1.ic7" size="279" crc="0d182081"></rom>
+    <rom name="c632.ic1" size="279" crc="0fbd9270"></rom>
+  </game>
+  <game name="slammast">
+    <description>Saturday Night Slam Masters (Slam Masters 930713 etc)</description>
+    <year>1993</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="mbe_23e.8f" size="524288" crc="5394057a"></rom>
+    <rom name="mbe_24b.9e" size="131072" crc="95d5e729"></rom>
+    <rom name="mbe_28b.9f" size="131072" crc="b1c7cbcb"></rom>
+    <rom name="mbe_25b.10e" size="131072" crc="a50d3fd4"></rom>
+    <rom name="mbe_29b.10f" size="131072" crc="08e32e56"></rom>
+    <rom name="mbe_21a.6f" size="524288" crc="d5007b05"></rom>
+    <rom name="mbe_20a.5f" size="524288" crc="aeb557b0"></rom>
+    <rom name="mb-1m.3a" size="524288" crc="41468e06"></rom>
+    <rom name="mb-3m.5a" size="524288" crc="f453aa9e"></rom>
+    <rom name="mb-2m.4a" size="524288" crc="2ffbfea8"></rom>
+    <rom name="mb-4m.6a" size="524288" crc="1eb9841d"></rom>
+    <rom name="mb-5m.7a" size="524288" crc="506b9dc9"></rom>
+    <rom name="mb-7m.9a" size="524288" crc="aff8c2fb"></rom>
+    <rom name="mb-6m.8a" size="524288" crc="b76c70e9"></rom>
+    <rom name="mb-8m.10a" size="524288" crc="e60c9556"></rom>
+    <rom name="mb-10m.3c" size="524288" crc="97976ff5"></rom>
+    <rom name="mb-12m.5c" size="524288" crc="b350a840"></rom>
+    <rom name="mb-11m.4c" size="524288" crc="8fb94743"></rom>
+    <rom name="mb-13m.6c" size="524288" crc="da810d5f"></rom>
+    <rom name="mb_qa.5k" size="131072" crc="e21a03c4"></rom>
+    <rom name="mb-q1.1k" size="524288" crc="0630c3ce"></rom>
+    <rom name="mb-q2.2k" size="524288" crc="354f9c21"></rom>
+    <rom name="mb-q3.3k" size="524288" crc="7838487c"></rom>
+    <rom name="mb-q4.4k" size="524288" crc="ab66e087"></rom>
+    <rom name="mb-q5.1m" size="524288" crc="c789fef2"></rom>
+    <rom name="mb-q6.2m" size="524288" crc="ecb81b61"></rom>
+    <rom name="mb-q7.3m" size="524288" crc="041e49ba"></rom>
+    <rom name="mb-q8.4m" size="524288" crc="59fe702a"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg2" size="279" crc="4386879a"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="mb63b.1a" size="279" crc="b8392f02"></rom>
+    <rom name="iob1.12d" size="279" crc="3abc0700"></rom>
+    <rom name="bprg1.11d" size="279" crc="31793da7"></rom>
+    <rom name="ioc1.ic1" size="279" crc="0d182081"></rom>
+    <rom name="d7l1.7l" size="279" crc="27b7410d"></rom>
+    <rom name="d8l1.8l" size="279" crc="539fc7da"></rom>
+    <rom name="d9k2.9k" size="279" crc="cd85a156"></rom>
+    <rom name="d10f1.10f" size="279" crc="6619c494"></rom>
+  </game>
+  <game name="sf2">
+    <description>Street Fighter II - the world warrior (910522 etc)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="sf2e_30g.11e" size="131072" crc="fe39ee33"></rom>
+    <rom name="sf2e_37g.11f" size="131072" crc="fb92cd74"></rom>
+    <rom name="sf2e_31g.12e" size="131072" crc="69a0a301"></rom>
+    <rom name="sf2e_38g.12f" size="131072" crc="5e22db70"></rom>
+    <rom name="sf2e_28g.9e" size="131072" crc="8bf9f1e5"></rom>
+    <rom name="sf2e_35g.9f" size="131072" crc="626ef934"></rom>
+    <rom name="sf2_29b.10e" size="131072" crc="bb4af315"></rom>
+    <rom name="sf2_36b.10f" size="131072" crc="c02a13eb"></rom>
+    <rom name="sf2-5m.4a" size="524288" crc="22c9cc8e"></rom>
+    <rom name="sf2-7m.6a" size="524288" crc="57213be8"></rom>
+    <rom name="sf2-1m.3a" size="524288" crc="ba529b4f"></rom>
+    <rom name="sf2-3m.5a" size="524288" crc="4b1b33a8"></rom>
+    <rom name="sf2-6m.4c" size="524288" crc="2c7e2229"></rom>
+    <rom name="sf2-8m.6c" size="524288" crc="b5548f17"></rom>
+    <rom name="sf2-2m.3c" size="524288" crc="14b84312"></rom>
+    <rom name="sf2-4m.5c" size="524288" crc="5e9cd89a"></rom>
+    <rom name="sf2-13m.4d" size="524288" crc="994bfa58"></rom>
+    <rom name="sf2-15m.6d" size="524288" crc="3e66ad9d"></rom>
+    <rom name="sf2-9m.3d" size="524288" crc="c1befaa8"></rom>
+    <rom name="sf2-11m.5d" size="524288" crc="0627c831"></rom>
+    <rom name="sf2_9.12a" size="65536" crc="a4823a1b"></rom>
+    <rom name="sf2_18.11c" size="131072" crc="7f162009"></rom>
+    <rom name="sf2_19.12c" size="131072" crc="beade53f"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="stf29.1a" size="279" crc="043309c5"></rom>
+    <rom name="iob1.11d" size="279" crc="3abc0700"></rom>
+    <rom name="c632.ic1" size="279" crc="0fbd9270"></rom>
+  </game>
+  <game name="sf2ce">
+    <description>Street Fighter II&apos; - champion edition (street fighter 2&apos; 920513 etc)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="s92e_23b.8f" size="524288" crc="0aaa1a3a"></rom>
+    <rom name="s92_22b.7f" size="524288" crc="2bbe15ed"></rom>
+    <rom name="s92_21a.6f" size="524288" crc="925a7877"></rom>
+    <rom name="s92-1m.3a" size="524288" crc="03b0d852"></rom>
+    <rom name="s92-3m.5a" size="524288" crc="840289ec"></rom>
+    <rom name="s92-2m.4a" size="524288" crc="cdb5f027"></rom>
+    <rom name="s92-4m.6a" size="524288" crc="e2799472"></rom>
+    <rom name="s92-5m.7a" size="524288" crc="ba8a2761"></rom>
+    <rom name="s92-7m.9a" size="524288" crc="e584bfb5"></rom>
+    <rom name="s92-6m.8a" size="524288" crc="21e3f87d"></rom>
+    <rom name="s92-8m.10a" size="524288" crc="befc47df"></rom>
+    <rom name="s92-10m.3c" size="524288" crc="960687d5"></rom>
+    <rom name="s92-12m.5c" size="524288" crc="978ecd18"></rom>
+    <rom name="s92-11m.4c" size="524288" crc="d6ec9a0a"></rom>
+    <rom name="s92-13m.6c" size="524288" crc="ed2c67f6"></rom>
+    <rom name="s92_09.11a" size="65536" crc="08f6b60e"></rom>
+    <rom name="s92_18.11c" size="131072" crc="7f162009"></rom>
+    <rom name="s92_19.12c" size="131072" crc="beade53f"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="s9263b.1a" size="279" crc="0a7ecfe0"></rom>
+    <rom name="iob1.12d" size="279" crc="3abc0700"></rom>
+    <rom name="bprg1.11d" size="279" crc="31793da7"></rom>
+    <rom name="ioc1.ic7" size="279" crc="0d182081"></rom>
+    <rom name="c632.ic1" size="279" crc="0fbd9270"></rom>
+  </game>
+  <game name="sf2hf">
+    <description>Street Fighter II&apos; - hyper fighting (street fighter 2&apos; T 921209 ETC)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="s2te_23.8f" size="524288" crc="2dd72514"></rom>
+    <rom name="s2te_22.7f" size="524288" crc="aea6e035"></rom>
+    <rom name="s2te_21.6f" size="524288" crc="fd200288"></rom>
+    <rom name="s92-1m.3a" size="524288" crc="03b0d852"></rom>
+    <rom name="s92-3m.5a" size="524288" crc="840289ec"></rom>
+    <rom name="s92-2m.4a" size="524288" crc="cdb5f027"></rom>
+    <rom name="s92-4m.6a" size="524288" crc="e2799472"></rom>
+    <rom name="s92-5m.7a" size="524288" crc="ba8a2761"></rom>
+    <rom name="s92-7m.9a" size="524288" crc="e584bfb5"></rom>
+    <rom name="s92-6m.8a" size="524288" crc="21e3f87d"></rom>
+    <rom name="s92-8m.10a" size="524288" crc="befc47df"></rom>
+    <rom name="s92-10m.3c" size="524288" crc="960687d5"></rom>
+    <rom name="s92-12m.5c" size="524288" crc="978ecd18"></rom>
+    <rom name="s92-11m.4c" size="524288" crc="d6ec9a0a"></rom>
+    <rom name="s92-13m.6c" size="524288" crc="ed2c67f6"></rom>
+    <rom name="s92_09.11a" size="65536" crc="08f6b60e"></rom>
+    <rom name="s92_18.11c" size="131072" crc="7f162009"></rom>
+    <rom name="s92_19.12c" size="131072" crc="beade53f"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="s9263b.1a" size="279" crc="0a7ecfe0"></rom>
+    <rom name="iob1.12d" size="279" crc="3abc0700"></rom>
+    <rom name="bprg1.11d" size="279" crc="31793da7"></rom>
+    <rom name="ioc1.ic7" size="279" crc="0d182081"></rom>
+    <rom name="c632.ic1" size="279" crc="0fbd9270"></rom>
+  </game>
+  <game name="sfzch">
+    <description>Street Fighter Zero (CPS Changer, 951020 Japan)</description>
+    <year>1995</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="sfzch23" size="524288" crc="1140743f"></rom>
+    <rom name="sfza22" size="524288" crc="8d9b2480"></rom>
+    <rom name="sfzch21" size="524288" crc="5435225d"></rom>
+    <rom name="sfza20" size="524288" crc="806e8f38"></rom>
+    <rom name="sfz_01.3a" size="524288" crc="0dd53e62"></rom>
+    <rom name="sfz_02.4a" size="524288" crc="94c31e3f"></rom>
+    <rom name="sfz_03.5a" size="524288" crc="9584ac85"></rom>
+    <rom name="sfz_04.6a" size="524288" crc="b983624c"></rom>
+    <rom name="sfz_05.7a" size="524288" crc="2b47b645"></rom>
+    <rom name="sfz_06.8a" size="524288" crc="74fd9fb1"></rom>
+    <rom name="sfz_07.9a" size="524288" crc="bb2c734d"></rom>
+    <rom name="sfz_08.10a" size="524288" crc="454f7868"></rom>
+    <rom name="sfz_10.3c" size="524288" crc="2a7d675e"></rom>
+    <rom name="sfz_11.4c" size="524288" crc="e35546c8"></rom>
+    <rom name="sfz_12.5c" size="524288" crc="f122693a"></rom>
+    <rom name="sfz_13.6c" size="524288" crc="7cf942c8"></rom>
+    <rom name="sfz_14.7c" size="524288" crc="09038c81"></rom>
+    <rom name="sfz_15.8c" size="524288" crc="1aa17391"></rom>
+    <rom name="sfz_16.9c" size="524288" crc="19a5abd6"></rom>
+    <rom name="sfz_17.10c" size="524288" crc="248b3b73"></rom>
+    <rom name="sfz_09.12a" size="65536" crc="c772628b"></rom>
+    <rom name="sfz_18.11c" size="131072" crc="61022b2d"></rom>
+    <rom name="sfz_19.12c" size="131072" crc="3b5886d5"></rom>
+  </game>
+  <game name="strider">
+    <description>Strider (US set 1)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="30.11f" size="131072" crc="da997474"></rom>
+    <rom name="35.11h" size="131072" crc="5463aaa3"></rom>
+    <rom name="31.12f" size="131072" crc="d20786db"></rom>
+    <rom name="36.12h" size="131072" crc="21aa2863"></rom>
+    <rom name="st-14.8h" size="524288" crc="9b3cfc08"></rom>
+    <rom name="st-2.8a" size="524288" crc="4eee9aea"></rom>
+    <rom name="st-11.10a" size="524288" crc="2d7f21e4"></rom>
+    <rom name="st-5.4a" size="524288" crc="7705aa46"></rom>
+    <rom name="st-9.6a" size="524288" crc="5b18b722"></rom>
+    <rom name="st-1.7a" size="524288" crc="005f000b"></rom>
+    <rom name="st-10.9a" size="524288" crc="b9441519"></rom>
+    <rom name="st-4.3a" size="524288" crc="b7d04e8b"></rom>
+    <rom name="st-8.5a" size="524288" crc="6b4713b4"></rom>
+    <rom name="09.12b" size="65536" crc="2ed403bc"></rom>
+    <rom name="18.11c" size="131072" crc="4386bc80"></rom>
+    <rom name="19.12c" size="131072" crc="444536d7"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="st24m1.1a" size="279" crc="a80d357e"></rom>
+    <rom name="lwio.11e" size="279" crc="ad52b90c"></rom>
+  </game>
+  <game name="wofch">
+    <description>Tenchi wo Kurau II - Sekiheki no Tatakai (CPS Changer, 921031 Japan)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="tk2(ch)_23.8f" size="524288" crc="4e0b8dee"></rom>
+    <rom name="tk2(ch)_22.7f" size="524288" crc="d0937a8d"></rom>
+    <rom name="tk2-1m.3a" size="524288" crc="0d9cb9bf"></rom>
+    <rom name="tk2-3m.5a" size="524288" crc="45227027"></rom>
+    <rom name="tk2-2m.4a" size="524288" crc="c5ca2460"></rom>
+    <rom name="tk2-4m.6a" size="524288" crc="e349551c"></rom>
+    <rom name="tk2(ch)_05.7a" size="524288" crc="e4a44d53"></rom>
+    <rom name="tk2(ch)_06.8a" size="524288" crc="58066ba8"></rom>
+    <rom name="tk2(ch)_07.9a" size="524288" crc="cc9006c9"></rom>
+    <rom name="tk2(ch)_08.10a" size="524288" crc="d4a19a02"></rom>
+    <rom name="tk2_qa.5k" size="131072" crc="c9183a0d"></rom>
+    <rom name="tk2-q1.1k" size="524288" crc="611268cf"></rom>
+    <rom name="tk2-q2.2k" size="524288" crc="20f55ca9"></rom>
+    <rom name="tk2-q3.3k" size="524288" crc="bfcf6f52"></rom>
+    <rom name="tk2-q4.4k" size="524288" crc="36642e88"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg2" size="279" crc="4386879a"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="tk263b.1a" size="279" crc="c4b0349b"></rom>
+    <rom name="iob1.12d" size="279" crc="3abc0700"></rom>
+    <rom name="bprg1.11d" size="279" crc="31793da7"></rom>
+    <rom name="ioc1.ic1" size="279" crc="0d182081"></rom>
+    <rom name="c632.ic1" size="279" crc="0fbd9270"></rom>
+    <rom name="d7l1.7l" size="279" crc="27b7410d"></rom>
+    <rom name="d8l1.8l" size="279" crc="539fc7da"></rom>
+    <rom name="d9k1.9k" size="279" status="nodump"></rom>
+    <rom name="d10f1.10f" size="279" crc="6619c494"></rom>
+  </game>
+  <game name="kod">
+    <description>The King of Dragons (910805 etc)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="kde_30a.11e" size="131072" crc="fcb5efe2"></rom>
+    <rom name="kde_37a.11f" size="131072" crc="f22e5266"></rom>
+    <rom name="kde_31a.12e" size="131072" crc="c710d722"></rom>
+    <rom name="kde_38a.12f" size="131072" crc="57d6ed3a"></rom>
+    <rom name="kd_28.9e" size="131072" crc="9367bcd9"></rom>
+    <rom name="kd_35.9f" size="131072" crc="4ca6a48a"></rom>
+    <rom name="kd_29.10e" size="131072" crc="0360fa72"></rom>
+    <rom name="kd_36a.10f" size="131072" crc="95a3cef8"></rom>
+    <rom name="kd-5m.4a" size="524288" crc="e45b8701"></rom>
+    <rom name="kd-7m.6a" size="524288" crc="a7750322"></rom>
+    <rom name="kd-1m.3a" size="524288" crc="5f74bf78"></rom>
+    <rom name="kd-3m.5a" size="524288" crc="5e5303bf"></rom>
+    <rom name="kd-6m.4c" size="524288" crc="113358f3"></rom>
+    <rom name="kd-8m.6c" size="524288" crc="38853c44"></rom>
+    <rom name="kd-2m.3c" size="524288" crc="9ef36604"></rom>
+    <rom name="kd-4m.5c" size="524288" crc="402b9b4f"></rom>
+    <rom name="kd_9.12a" size="65536" crc="bac6ec26"></rom>
+    <rom name="kd_18.11c" size="131072" crc="4c63181d"></rom>
+    <rom name="kd_19.12c" size="131072" crc="92941b80"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="kd29b.1a" size="279" status="nodump"></rom>
+    <rom name="iob1.11d" size="279" crc="3abc0700"></rom>
+    <rom name="ioc1.ic7" size="279" crc="0d182081"></rom>
+    <rom name="c632.ic1" size="279" crc="0fbd9270"></rom>
+  </game>
+  <game name="punisher">
+    <description>The Punisher (930422 etc)</description>
+    <year>1993</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="pse_26.11e" size="131072" crc="389a99d2"></rom>
+    <rom name="pse_30.11f" size="131072" crc="68fb06ac"></rom>
+    <rom name="pse_27.12e" size="131072" crc="3eb181c3"></rom>
+    <rom name="pse_31.12f" size="131072" crc="37108e7b"></rom>
+    <rom name="pse_24.9e" size="131072" crc="0f434414"></rom>
+    <rom name="pse_28.9f" size="131072" crc="b732345d"></rom>
+    <rom name="pse_25.10e" size="131072" crc="b77102e2"></rom>
+    <rom name="pse_29.10f" size="131072" crc="ec037bce"></rom>
+    <rom name="ps_21.6f" size="524288" crc="8affa5a9"></rom>
+    <rom name="ps-1m.3a" size="524288" crc="77b7ccab"></rom>
+    <rom name="ps-3m.5a" size="524288" crc="0122720b"></rom>
+    <rom name="ps-2m.4a" size="524288" crc="64fa58d4"></rom>
+    <rom name="ps-4m.6a" size="524288" crc="60da42c8"></rom>
+    <rom name="ps-5m.7a" size="524288" crc="c54ea839"></rom>
+    <rom name="ps-7m.9a" size="524288" crc="04c5acbd"></rom>
+    <rom name="ps-6m.8a" size="524288" crc="a544f4cc"></rom>
+    <rom name="ps-8m.10a" size="524288" crc="8f02f436"></rom>
+    <rom name="ps_q.5k" size="131072" crc="49ff4446"></rom>
+    <rom name="ps-q1.1k" size="524288" crc="31fd8726"></rom>
+    <rom name="ps-q2.2k" size="524288" crc="980a9eef"></rom>
+    <rom name="ps-q3.3k" size="524288" crc="0dd44491"></rom>
+    <rom name="ps-q4.4k" size="524288" crc="bed42f03"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg2" size="279" crc="4386879a"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="ps63b.1a" size="279" crc="03a758b0"></rom>
+    <rom name="iob1.12d" size="279" crc="3abc0700"></rom>
+    <rom name="bprg1.11d" size="279" crc="31793da7"></rom>
+    <rom name="ioc1.ic1" size="279" crc="0d182081"></rom>
+    <rom name="d7l1.7l" size="279" crc="27b7410d"></rom>
+    <rom name="d8l1.8l" size="279" crc="539fc7da"></rom>
+    <rom name="d9k2.9k" size="279" crc="cd85a156"></rom>
+    <rom name="d10f1.10f" size="279" crc="6619c494"></rom>
+  </game>
+  <game name="3wonders">
+    <description>Three Wonders (wonder 3 910520 etc)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="rte_30a.11f" size="131072" crc="ef5b8b33"></rom>
+    <rom name="rte_35a.11h" size="131072" crc="7d705529"></rom>
+    <rom name="rte_31a.12f" size="131072" crc="32835e5e"></rom>
+    <rom name="rte_36a.12h" size="131072" crc="7637975f"></rom>
+    <rom name="rt_28a.9f" size="131072" crc="054137c8"></rom>
+    <rom name="rt_33a.9h" size="131072" crc="7264cb1b"></rom>
+    <rom name="rte_29a.10f" size="131072" crc="cddaa919"></rom>
+    <rom name="rte_34a.10h" size="131072" crc="ed52e7e5"></rom>
+    <rom name="rt-5m.7a" size="524288" crc="86aef804"></rom>
+    <rom name="rt-7m.9a" size="524288" crc="4f057110"></rom>
+    <rom name="rt-1m.3a" size="524288" crc="902489d0"></rom>
+    <rom name="rt-3m.5a" size="524288" crc="e35ce720"></rom>
+    <rom name="rt-6m.8a" size="524288" crc="13cb0e7c"></rom>
+    <rom name="rt-8m.10a" size="524288" crc="1f055014"></rom>
+    <rom name="rt-2m.4a" size="524288" crc="e9a034f4"></rom>
+    <rom name="rt-4m.6a" size="524288" crc="df0eea8b"></rom>
+    <rom name="rt_9.12b" size="65536" crc="abfca165"></rom>
+    <rom name="rt_18.11c" size="131072" crc="26b211ab"></rom>
+    <rom name="rt_19.12c" size="131072" crc="dbe64ad0"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="rt24b.1a" size="279" crc="54b85159"></rom>
+    <rom name="iob1.11e" size="279" crc="3abc0700"></rom>
+    <rom name="ioc1.ic1" size="279" crc="0d182081"></rom>
+  </game>
+  <game name="unsquad">
+    <description>U.N. Squadron (US)</description>
+    <year>1989</year>
+    <manufacturer>Daipro / Capcom</manufacturer>
+    <rom name="aru_30.11f" size="131072" crc="24d8f88d"></rom>
+    <rom name="aru_35.11h" size="131072" crc="8b954b59"></rom>
+    <rom name="aru_31.12f" size="131072" crc="33e9694b"></rom>
+    <rom name="aru_36.12h" size="131072" crc="7cc8fb9e"></rom>
+    <rom name="ar-32m.8h" size="524288" crc="ae1d7fb0"></rom>
+    <rom name="ar-5m.7a" size="524288" crc="bf4575d8"></rom>
+    <rom name="ar-7m.9a" size="524288" crc="a02945f4"></rom>
+    <rom name="ar-1m.3a" size="524288" crc="5965ca8d"></rom>
+    <rom name="ar-3m.5a" size="524288" crc="ac6db17d"></rom>
+    <rom name="ar_09.12b" size="65536" crc="f3dd1367"></rom>
+    <rom name="aru_18.11c" size="131072" crc="584b43a9"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="ar24b.1a" size="279" crc="09a51271"></rom>
+    <rom name="lwio.11e" size="279" crc="ad52b90c"></rom>
+  </game>
+  <game name="varth">
+    <description>Varth - operation thunderstorm (920714 etc)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="vae_30b.11f" size="131072" crc="adb8d391"></rom>
+    <rom name="vae_35b.11h" size="131072" crc="44e5548f"></rom>
+    <rom name="vae_31b.12f" size="131072" crc="1749a71c"></rom>
+    <rom name="vae_36b.12h" size="131072" crc="5f2e2450"></rom>
+    <rom name="vae_28b.9f" size="131072" crc="e524ca50"></rom>
+    <rom name="vae_33b.9h" size="131072" crc="c0bbf8c9"></rom>
+    <rom name="vae_29b.10f" size="131072" crc="6640996a"></rom>
+    <rom name="vae_34b.10h" size="131072" crc="fa59be8a"></rom>
+    <rom name="va-5m.7a" size="524288" crc="b1fb726e"></rom>
+    <rom name="va-7m.9a" size="524288" crc="4c6588cd"></rom>
+    <rom name="va-1m.3a" size="524288" crc="0b1ace37"></rom>
+    <rom name="va-3m.5a" size="524288" crc="44dfe706"></rom>
+    <rom name="va_09.12b" size="65536" crc="7a99446e"></rom>
+    <rom name="va_18.11c" size="131072" crc="de30510e"></rom>
+    <rom name="va_19.12c" size="131072" crc="0610a4ac"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="va24b.1a" size="279" crc="cc476650"></rom>
+    <rom name="iob1.11e" size="279" crc="3abc0700"></rom>
+  </game>
+  <game name="wof">
+    <description>Warriors of Fate (921031 etc)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="tk2e_23c.8f" size="524288" crc="0d708505"></rom>
+    <rom name="tk2e_22c.7f" size="524288" crc="608c17e3"></rom>
+    <rom name="tk2-1m.3a" size="524288" crc="0d9cb9bf"></rom>
+    <rom name="tk2-3m.5a" size="524288" crc="45227027"></rom>
+    <rom name="tk2-2m.4a" size="524288" crc="c5ca2460"></rom>
+    <rom name="tk2-4m.6a" size="524288" crc="e349551c"></rom>
+    <rom name="tk2-5m.7a" size="524288" crc="291f0f0b"></rom>
+    <rom name="tk2-7m.9a" size="524288" crc="3edeb949"></rom>
+    <rom name="tk2-6m.8a" size="524288" crc="1abd14d6"></rom>
+    <rom name="tk2-8m.10a" size="524288" crc="b27948e3"></rom>
+    <rom name="tk2_qa.5k" size="131072" crc="c9183a0d"></rom>
+    <rom name="tk2-q1.1k" size="524288" crc="611268cf"></rom>
+    <rom name="tk2-q2.2k" size="524288" crc="20f55ca9"></rom>
+    <rom name="tk2-q3.3k" size="524288" crc="bfcf6f52"></rom>
+    <rom name="tk2-q4.4k" size="524288" crc="36642e88"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg2" size="279" crc="4386879a"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="tk263b.1a" size="279" crc="c4b0349b"></rom>
+    <rom name="iob1.12d" size="279" crc="3abc0700"></rom>
+    <rom name="bprg1.11d" size="279" crc="31793da7"></rom>
+    <rom name="ioc1.ic1" size="279" crc="0d182081"></rom>
+    <rom name="d7l1.7l" size="279" crc="27b7410d"></rom>
+    <rom name="d8l1.8l" size="279" crc="539fc7da"></rom>
+    <rom name="d9k1.9k" size="279" status="nodump"></rom>
+    <rom name="d10f1.10f" size="279" crc="6619c494"></rom>
+  </game>
+  <game name="willow">
+    <description>Willow (US)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="wlu_30.11f" size="131072" crc="d604dbb1"></rom>
+    <rom name="35.11h" size="131072" crc="7a791e77"></rom>
+    <rom name="wlu_31.12f" size="131072" crc="0eb48a83"></rom>
+    <rom name="wlu_36.12h" size="131072" crc="36100209"></rom>
+    <rom name="wlm-32.8h" size="524288" crc="dfd9f643"></rom>
+    <rom name="wlm-7.7a" size="524288" crc="afa74b73"></rom>
+    <rom name="wlm-5.9a" size="524288" crc="12a0dc0b"></rom>
+    <rom name="wlm-3.3a" size="524288" crc="c6f2abce"></rom>
+    <rom name="wlm-1.5a" size="524288" crc="4aa4c6d3"></rom>
+    <rom name="wl_24.7d" size="131072" crc="6f0adee5"></rom>
+    <rom name="wl_14.7c" size="131072" crc="9cf3027d"></rom>
+    <rom name="wl_26.9d" size="131072" crc="f09c8ecf"></rom>
+    <rom name="wl_16.9c" size="131072" crc="e35407aa"></rom>
+    <rom name="wl_20.3d" size="131072" crc="84992350"></rom>
+    <rom name="wl_10.3c" size="131072" crc="b87b5a36"></rom>
+    <rom name="wl_22.5d" size="131072" crc="fd3f89f0"></rom>
+    <rom name="wl_12.5c" size="131072" crc="7da49d69"></rom>
+    <rom name="wl_09.12b" size="65536" crc="f6b3d060"></rom>
+    <rom name="wl_18.11c" size="131072" crc="bde23d4d"></rom>
+    <rom name="wl_19.12c" size="131072" crc="683898f5"></rom>
+    <rom name="buf1" size="279" crc="eb122de7"></rom>
+    <rom name="ioa1" size="279" crc="59c7ee3b"></rom>
+    <rom name="prg1" size="279" crc="f1129744"></rom>
+    <rom name="rom1" size="279" crc="41dc73b9"></rom>
+    <rom name="sou1" size="279" crc="84f4b2fe"></rom>
+    <rom name="wl24b.1a" size="279" crc="7101cdf1"></rom>
+    <rom name="lwio.11e" size="279" crc="ad52b90c"></rom>
+  </game>
+</datafile>

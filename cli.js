@@ -7,21 +7,24 @@ Options:
   -u, --unique         Keep only parent roms
   -t, --txt <file>     Gamelist.txt file for filtering
   -o, --out <file>     Output file
+  -h, --hardware <hw>  Hardware to filter on
 `;
 const xmlOptions = {
   ignoreAttributes: false,
   attributeNamePrefix : "@_",
-  allowBooleanAttributes: true
+  allowBooleanAttributes: true,
+  format: true,
 };
 
 function run(args) {
   const options = minimist(args, {
-    string: ["txt", "out"],
+    string: ["txt", "out", "hardware"],
     boolean: ["unique"],
     alias: {
       u: "unique",
       o: "out",
       t: "txt",
+      h: "hardware",
     },
   });
 
@@ -45,13 +48,13 @@ function run(args) {
   }
 
   const datFile = options._[0];
-  filterDat(datFile, options.txt, options.out, options.unique);
+  filterDat(datFile, options.txt, options.out, options.unique, options.hardware);
   console.log(`Wrote ${options.out}`);
 }
 
-function filterDat(datFile, txtFile, outFile, unique = false) {
+function filterDat(datFile, txtFile, outFile, unique = false, hardware = undefined) {
   const dat = loadXmlFile(datFile);
-  const txt = loadTxtFile(txtFile, unique);
+  const txt = loadTxtFile(txtFile, unique, hardware);
   const filteredDat = applyFilter(dat, txt);
   writeXmlFile(filteredDat, outFile);
 }
@@ -67,7 +70,7 @@ function applyFilter(dat, txt) {
   return dat;
 }
 
-function loadTxtFile(file, unique = false) {
+function loadTxtFile(file, unique = false, hardware = undefined) {
   const txt = fs.readFileSync(file, "utf8");
   const lines = txt.split("\n");
   const roms = lines
@@ -77,7 +80,9 @@ function loadTxtFile(file, unique = false) {
       const parts = line.split("|")
         .filter((part) => part)
         .map((part) => part.trim());
-      return unique && parts[3] ? undefined : parts[0];
+      const isUnique = !unique || !parts[3];
+      const matchHardware = !hardware || parts[6] === hardware;
+      return isUnique && matchHardware ? parts[0] : undefined;
     })
     .filter((rom) => rom);
 

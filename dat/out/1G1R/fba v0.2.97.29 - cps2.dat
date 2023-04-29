@@ -1,0 +1,896 @@
+<?xml version="1.0"?>
+<datafile>
+  <header>
+    <name>FB Alpha - Arcade Games</name>
+    <description>FB Alpha v0.2.97.29 Arcade Games</description>
+    <category>Standard DatFile</category>
+    <version>0.2.97.29</version>
+    <author>FB Alpha</author>
+    <homepage>http://www.barryharris.me.uk/</homepage>
+    <url>http://www.barryharris.me.uk/</url>
+    <clrmamepro forcenodump="ignore"></clrmamepro>
+  </header>
+  <game name="1944">
+    <description>1944 - the loop master (000620 USA)</description>
+    <year>2000</year>
+    <manufacturer>Capcom / 8ing / Raizing</manufacturer>
+    <rom name="nffu.03" size="524288" crc="9693cf8f"></rom>
+    <rom name="nff.04" size="524288" crc="dba1c66e"></rom>
+    <rom name="nffu.05" size="524288" crc="ea813eb7"></rom>
+    <rom name="nff.13m" size="4194304" crc="c9fca741"></rom>
+    <rom name="nff.15m" size="4194304" crc="f809d898"></rom>
+    <rom name="nff.17m" size="4194304" crc="15ba4507"></rom>
+    <rom name="nff.19m" size="4194304" crc="3dd41b8c"></rom>
+    <rom name="nff.14m" size="1048576" crc="3fe3a54b"></rom>
+    <rom name="nff.16m" size="1048576" crc="565cd231"></rom>
+    <rom name="nff.18m" size="1048576" crc="63ca5988"></rom>
+    <rom name="nff.20m" size="1048576" crc="21eb8f3b"></rom>
+    <rom name="nff.01" size="131072" crc="d2e44318"></rom>
+    <rom name="nff.11m" size="4194304" crc="243e4e05"></rom>
+    <rom name="nff.12m" size="4194304" crc="4fcf1600"></rom>
+  </game>
+  <game name="19xx">
+    <description>19XX - the war against destiny (951207 USA)</description>
+    <year>1995</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="19xu.03" size="524288" crc="05955268"></rom>
+    <rom name="19xu.04" size="524288" crc="3111ab7f"></rom>
+    <rom name="19xu.05" size="524288" crc="38df4a63"></rom>
+    <rom name="19xu.06" size="524288" crc="5c7e60d3"></rom>
+    <rom name="19x.07" size="524288" crc="61c0296c"></rom>
+    <rom name="19x.13m" size="524288" crc="427aeb18"></rom>
+    <rom name="19x.15m" size="524288" crc="63bdbf54"></rom>
+    <rom name="19x.17m" size="524288" crc="2dfe18b5"></rom>
+    <rom name="19x.19m" size="524288" crc="cbef9579"></rom>
+    <rom name="19x.14m" size="2097152" crc="e916967c"></rom>
+    <rom name="19x.16m" size="2097152" crc="6e75f3db"></rom>
+    <rom name="19x.18m" size="2097152" crc="2213e798"></rom>
+    <rom name="19x.20m" size="2097152" crc="ab9d5b96"></rom>
+    <rom name="19x.01" size="131072" crc="ef55195e"></rom>
+    <rom name="19x.11m" size="2097152" crc="d38beef3"></rom>
+    <rom name="19x.12m" size="2097152" crc="d47c96e2"></rom>
+  </game>
+  <game name="avsp">
+    <description>Alien vs Predator (940520 Euro)</description>
+    <year>1994</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="avpe.03d" size="524288" crc="774334a9"></rom>
+    <rom name="avpe.04d" size="524288" crc="7fa83769"></rom>
+    <rom name="avp.05d" size="524288" crc="fbfb5d7a"></rom>
+    <rom name="avp.06" size="524288" crc="190b817f"></rom>
+    <rom name="avp.13m" size="2097152" crc="8f8b5ae4"></rom>
+    <rom name="avp.15m" size="2097152" crc="b00280df"></rom>
+    <rom name="avp.17m" size="2097152" crc="94403195"></rom>
+    <rom name="avp.19m" size="2097152" crc="e1981245"></rom>
+    <rom name="avp.14m" size="2097152" crc="ebba093e"></rom>
+    <rom name="avp.16m" size="2097152" crc="fb228297"></rom>
+    <rom name="avp.18m" size="2097152" crc="34fb7232"></rom>
+    <rom name="avp.20m" size="2097152" crc="f90baa21"></rom>
+    <rom name="avp.01" size="131072" crc="2d3b4220"></rom>
+    <rom name="avp.11m" size="2097152" crc="83499817"></rom>
+    <rom name="avp.12m" size="2097152" crc="f4110d49"></rom>
+  </game>
+  <game name="armwar">
+    <description>Armored Warriors (941024 Europe)</description>
+    <year>1994</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="pwge.03c" size="524288" crc="31f74931"></rom>
+    <rom name="pwge.04c" size="524288" crc="16f34f5f"></rom>
+    <rom name="pwge.05b" size="524288" crc="4403ed08"></rom>
+    <rom name="pwg.06" size="524288" crc="87a60ce8"></rom>
+    <rom name="pwg.07" size="524288" crc="f7b148df"></rom>
+    <rom name="pwg.08" size="524288" crc="cc62823e"></rom>
+    <rom name="pwg.09a" size="524288" crc="4c26baee"></rom>
+    <rom name="pwg.10" size="524288" crc="07c4fb28"></rom>
+    <rom name="pwg.13m" size="4194304" crc="ae8fe08e"></rom>
+    <rom name="pwg.15m" size="4194304" crc="db560f58"></rom>
+    <rom name="pwg.17m" size="4194304" crc="bc475b94"></rom>
+    <rom name="pwg.19m" size="4194304" crc="07439ff7"></rom>
+    <rom name="pwg.14m" size="1048576" crc="c3f9ba63"></rom>
+    <rom name="pwg.16m" size="1048576" crc="815b0e7b"></rom>
+    <rom name="pwg.18m" size="1048576" crc="0109c71b"></rom>
+    <rom name="pwg.20m" size="1048576" crc="eb75ffbe"></rom>
+    <rom name="pwg.01" size="131072" crc="18a5c0e4"></rom>
+    <rom name="pwg.02" size="131072" crc="c9dfffa6"></rom>
+    <rom name="pwg.11m" size="2097152" crc="a78f7433"></rom>
+    <rom name="pwg.12m" size="2097152" crc="77438ed0"></rom>
+  </game>
+  <game name="batcir">
+    <description>Battle Circuit (970319 Euro)</description>
+    <year>1997</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="btce.03" size="524288" crc="bc60484b"></rom>
+    <rom name="btce.04" size="524288" crc="457d55f6"></rom>
+    <rom name="btce.05" size="524288" crc="e86560d7"></rom>
+    <rom name="btce.06" size="524288" crc="f778e61b"></rom>
+    <rom name="btc.07" size="524288" crc="7322d5db"></rom>
+    <rom name="btc.08" size="524288" crc="6aac85ab"></rom>
+    <rom name="btc.09" size="524288" crc="1203db08"></rom>
+    <rom name="btc.13m" size="4194304" crc="dc705bad"></rom>
+    <rom name="btc.15m" size="4194304" crc="e5779a3c"></rom>
+    <rom name="btc.17m" size="4194304" crc="b33f4112"></rom>
+    <rom name="btc.19m" size="4194304" crc="a6fcdb7e"></rom>
+    <rom name="btc.01" size="131072" crc="1e194310"></rom>
+    <rom name="btc.02" size="131072" crc="01aeb8e6"></rom>
+    <rom name="btc.11m" size="2097152" crc="c27f2229"></rom>
+    <rom name="btc.12m" size="2097152" crc="418a2e33"></rom>
+  </game>
+  <game name="csclub">
+    <description>Capcom Sports Club (971017 Euro)</description>
+    <year>1997</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="csce.03a" size="524288" crc="824082be"></rom>
+    <rom name="csce.04a" size="524288" crc="74e6a4fe"></rom>
+    <rom name="csce.05a" size="524288" crc="8ae0df19"></rom>
+    <rom name="csce.06a" size="524288" crc="51f2f0d3"></rom>
+    <rom name="csce.07a" size="524288" crc="003968fd"></rom>
+    <rom name="csc.73" size="524288" crc="335f07c3"></rom>
+    <rom name="csc.74" size="524288" crc="ab215357"></rom>
+    <rom name="csc.75" size="524288" crc="a2367381"></rom>
+    <rom name="csc.76" size="524288" crc="728aac1f"></rom>
+    <rom name="csc.63" size="524288" crc="3711b8ca"></rom>
+    <rom name="csc.64" size="524288" crc="828a06d8"></rom>
+    <rom name="csc.65" size="524288" crc="86ee4569"></rom>
+    <rom name="csc.66" size="524288" crc="c24f577f"></rom>
+    <rom name="csc.83" size="524288" crc="0750d12a"></rom>
+    <rom name="csc.84" size="524288" crc="90a92f39"></rom>
+    <rom name="csc.85" size="524288" crc="d08ab012"></rom>
+    <rom name="csc.86" size="524288" crc="41652583"></rom>
+    <rom name="csc.93" size="524288" crc="a756c7f7"></rom>
+    <rom name="csc.94" size="524288" crc="fb7ccc73"></rom>
+    <rom name="csc.95" size="524288" crc="4d014297"></rom>
+    <rom name="csc.96" size="524288" crc="6754b1ef"></rom>
+    <rom name="csc.01" size="131072" crc="ee162111"></rom>
+    <rom name="csc.51" size="524288" crc="5a52afd5"></rom>
+    <rom name="csc.52" size="524288" crc="1408a811"></rom>
+    <rom name="csc.53" size="524288" crc="4fb9f57c"></rom>
+    <rom name="csc.54" size="524288" crc="9a8f40ec"></rom>
+    <rom name="csc.55" size="524288" crc="91529a91"></rom>
+    <rom name="csc.56" size="524288" crc="9a345334"></rom>
+    <rom name="csc.57" size="524288" crc="aedc27f2"></rom>
+    <rom name="csc.58" size="524288" crc="2300b7b3"></rom>
+  </game>
+  <game name="choko">
+    <description>Choko (010820 Japan)</description>
+    <year>2001</year>
+    <manufacturer>Mitchell</manufacturer>
+    <rom name="tkoj.03" size="524288" crc="11f5452f"></rom>
+    <rom name="tkoj.04" size="524288" crc="68655378"></rom>
+    <rom name="tkoj1_d.simm1" size="2097152" crc="6933377d"></rom>
+    <rom name="tkoj1_c.simm1" size="2097152" crc="7f668950"></rom>
+    <rom name="tkoj1_b.simm1" size="2097152" crc="cfb68ca9"></rom>
+    <rom name="tkoj1_a.simm1" size="2097152" crc="437e21c5"></rom>
+    <rom name="tkoj3_d.simm3" size="2097152" crc="a9e32b57"></rom>
+    <rom name="tkoj3_c.simm3" size="2097152" crc="b7ab9338"></rom>
+    <rom name="tkoj3_b.simm3" size="2097152" crc="4d3f919a"></rom>
+    <rom name="tkoj3_a.simm3" size="2097152" crc="cfef17ab"></rom>
+    <rom name="tko.01" size="131072" crc="6eda50c2"></rom>
+    <rom name="tkoj5_a.simm5" size="2097152" crc="ab45d509"></rom>
+    <rom name="tkoj5_b.simm5" size="2097152" crc="fa905c3d"></rom>
+  </game>
+  <game name="cybots">
+    <description>Cyberbots - fullmetal madness (950424 Euro)</description>
+    <year>1995</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="cybe.03" size="524288" crc="234381cd"></rom>
+    <rom name="cybe.04" size="524288" crc="80691061"></rom>
+    <rom name="cyb.05" size="524288" crc="ec40408e"></rom>
+    <rom name="cyb.06" size="524288" crc="1ad0bed2"></rom>
+    <rom name="cyb.07" size="524288" crc="6245a39a"></rom>
+    <rom name="cyb.08" size="524288" crc="4b48e223"></rom>
+    <rom name="cyb.09" size="524288" crc="e15238f6"></rom>
+    <rom name="cyb.10" size="524288" crc="75f4003b"></rom>
+    <rom name="cyb.13m" size="4194304" crc="f0dce192"></rom>
+    <rom name="cyb.15m" size="4194304" crc="187aa39c"></rom>
+    <rom name="cyb.17m" size="4194304" crc="8a0e4b12"></rom>
+    <rom name="cyb.19m" size="4194304" crc="34b62612"></rom>
+    <rom name="cyb.14m" size="4194304" crc="c1537957"></rom>
+    <rom name="cyb.16m" size="4194304" crc="15349e86"></rom>
+    <rom name="cyb.18m" size="4194304" crc="d83e977d"></rom>
+    <rom name="cyb.20m" size="4194304" crc="77cdad5c"></rom>
+    <rom name="cyb.01" size="131072" crc="9c0fb079"></rom>
+    <rom name="cyb.02" size="131072" crc="51cb0c4e"></rom>
+    <rom name="cyb.11m" size="2097152" crc="362ccab2"></rom>
+    <rom name="cyb.12m" size="2097152" crc="7066e9cc"></rom>
+  </game>
+  <game name="dstlk">
+    <description>Darkstalkers - the night warriors (940705 Euro)</description>
+    <year>1994</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="vame.03a" size="524288" crc="004c9cff"></rom>
+    <rom name="vame.04a" size="524288" crc="ae413ff2"></rom>
+    <rom name="vame.05a" size="524288" crc="60678756"></rom>
+    <rom name="vame.06a" size="524288" crc="912870b3"></rom>
+    <rom name="vame.07a" size="524288" crc="dabae3e8"></rom>
+    <rom name="vame.08a" size="524288" crc="2c6e3077"></rom>
+    <rom name="vame.09a" size="524288" crc="f16db74b"></rom>
+    <rom name="vame.10a" size="524288" crc="701e2147"></rom>
+    <rom name="vam.13m" size="4194304" crc="c51baf99"></rom>
+    <rom name="vam.15m" size="4194304" crc="3ce83c77"></rom>
+    <rom name="vam.17m" size="4194304" crc="4f2408e0"></rom>
+    <rom name="vam.19m" size="4194304" crc="9ff60250"></rom>
+    <rom name="vam.14m" size="1048576" crc="bd87243c"></rom>
+    <rom name="vam.16m" size="1048576" crc="afec855f"></rom>
+    <rom name="vam.18m" size="1048576" crc="3a033625"></rom>
+    <rom name="vam.20m" size="1048576" crc="2bff6a89"></rom>
+    <rom name="vam.01" size="131072" crc="64b685d5"></rom>
+    <rom name="vam.02" size="131072" crc="cf7c97c7"></rom>
+    <rom name="vam.11m" size="2097152" crc="4a39deb2"></rom>
+    <rom name="vam.12m" size="2097152" crc="1a3e5c03"></rom>
+  </game>
+  <game name="dimahoo">
+    <description>Dimahoo (000121 Euro)</description>
+    <year>2000</year>
+    <manufacturer>8ing / Raizing / Capcom</manufacturer>
+    <rom name="gmde.03" size="524288" crc="968fcecd"></rom>
+    <rom name="gmd.04" size="524288" crc="37485567"></rom>
+    <rom name="gmd.05" size="524288" crc="da269ffb"></rom>
+    <rom name="gmd.06" size="524288" crc="55b483c9"></rom>
+    <rom name="gmd.13m" size="4194304" crc="80dd19f0"></rom>
+    <rom name="gmd.15m" size="4194304" crc="dfd93a78"></rom>
+    <rom name="gmd.17m" size="4194304" crc="16356520"></rom>
+    <rom name="gmd.19m" size="4194304" crc="dfc33031"></rom>
+    <rom name="gmd.01" size="131072" crc="3f9bc985"></rom>
+    <rom name="gmd.02" size="131072" crc="3fd39dde"></rom>
+    <rom name="gmd.11m" size="4194304" crc="06a65542"></rom>
+    <rom name="gmd.12m" size="4194304" crc="50bc7a31"></rom>
+  </game>
+  <game name="ddsom">
+    <description>Dungeons &amp; Dragons - shadow over mystara (960619 Euro)</description>
+    <year>1996</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="dd2e.03e" size="524288" crc="449361af"></rom>
+    <rom name="dd2e.04e" size="524288" crc="5b7052b6"></rom>
+    <rom name="dd2e.05e" size="524288" crc="788d5f60"></rom>
+    <rom name="dd2e.06e" size="524288" crc="e0807e1e"></rom>
+    <rom name="dd2e.07" size="524288" crc="bb777a02"></rom>
+    <rom name="dd2e.08" size="524288" crc="30970890"></rom>
+    <rom name="dd2e.09" size="524288" crc="99e2194d"></rom>
+    <rom name="dd2e.10" size="524288" crc="e198805e"></rom>
+    <rom name="dd2.13m" size="4194304" crc="a46b4e6e"></rom>
+    <rom name="dd2.15m" size="4194304" crc="d5fc50fc"></rom>
+    <rom name="dd2.17m" size="4194304" crc="837c0867"></rom>
+    <rom name="dd2.19m" size="4194304" crc="bb0ec21c"></rom>
+    <rom name="dd2.14m" size="2097152" crc="6d824ce2"></rom>
+    <rom name="dd2.16m" size="2097152" crc="79682ae5"></rom>
+    <rom name="dd2.18m" size="2097152" crc="acddd149"></rom>
+    <rom name="dd2.20m" size="2097152" crc="117fb0c0"></rom>
+    <rom name="dd2.01" size="131072" crc="99d657e5"></rom>
+    <rom name="dd2.02" size="131072" crc="117a3824"></rom>
+    <rom name="dd2.11m" size="2097152" crc="98d0c325"></rom>
+    <rom name="dd2.12m" size="2097152" crc="5ea2e7fa"></rom>
+  </game>
+  <game name="ddtod">
+    <description>Dungeons &amp; Dragons - tower of doom (940412 Euro)</description>
+    <year>1994</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="dade.03c" size="524288" crc="8e73533d"></rom>
+    <rom name="dade.04c" size="524288" crc="00c2e82e"></rom>
+    <rom name="dade.05c" size="524288" crc="ea996008"></rom>
+    <rom name="dad.06a" size="524288" crc="6225495a"></rom>
+    <rom name="dad.07a" size="524288" crc="b3480ec3"></rom>
+    <rom name="dad.13m" size="2097152" crc="da3cb7d6"></rom>
+    <rom name="dad.15m" size="2097152" crc="92b63172"></rom>
+    <rom name="dad.17m" size="2097152" crc="b98757f5"></rom>
+    <rom name="dad.19m" size="2097152" crc="8121ce46"></rom>
+    <rom name="dad.14m" size="1048576" crc="837e6f3f"></rom>
+    <rom name="dad.16m" size="1048576" crc="f0916bdb"></rom>
+    <rom name="dad.18m" size="1048576" crc="cef393ef"></rom>
+    <rom name="dad.20m" size="1048576" crc="8953fe9e"></rom>
+    <rom name="dad.01" size="131072" crc="3f5e2424"></rom>
+    <rom name="dad.11m" size="2097152" crc="0c499b67"></rom>
+    <rom name="dad.12m" size="2097152" crc="2f0b5a4e"></rom>
+  </game>
+  <game name="ecofghtr">
+    <description>Eco Fighters (931203 etc)</description>
+    <year>1993</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="uece.03" size="524288" crc="ec2c1137"></rom>
+    <rom name="uece.04" size="524288" crc="b35f99db"></rom>
+    <rom name="uece.05" size="524288" crc="d9d42d31"></rom>
+    <rom name="uece.06" size="524288" crc="9d9771cf"></rom>
+    <rom name="uec.13m" size="2097152" crc="dcaf1436"></rom>
+    <rom name="uec.15m" size="2097152" crc="2807df41"></rom>
+    <rom name="uec.17m" size="2097152" crc="8a708d02"></rom>
+    <rom name="uec.19m" size="2097152" crc="de7be0ef"></rom>
+    <rom name="uec.14m" size="1048576" crc="1a003558"></rom>
+    <rom name="uec.16m" size="1048576" crc="4ff8a6f9"></rom>
+    <rom name="uec.18m" size="1048576" crc="b167ae12"></rom>
+    <rom name="uec.20m" size="1048576" crc="1064bdc2"></rom>
+    <rom name="uec.01" size="131072" crc="c235bd15"></rom>
+    <rom name="uec.11m" size="2097152" crc="81b25d39"></rom>
+    <rom name="uec.12m" size="2097152" crc="27729e52"></rom>
+  </game>
+  <game name="gigawing">
+    <description>Giga Wing (990222 USA)</description>
+    <year>1999</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="ggwu.03" size="524288" crc="ac725eb2"></rom>
+    <rom name="ggwu.04" size="524288" crc="392f4118"></rom>
+    <rom name="ggw.05" size="524288" crc="3239d642"></rom>
+    <rom name="ggw.13m" size="4194304" crc="105530a4"></rom>
+    <rom name="ggw.15m" size="4194304" crc="9e774ab9"></rom>
+    <rom name="ggw.17m" size="4194304" crc="466e0ba4"></rom>
+    <rom name="ggw.19m" size="4194304" crc="840c8dea"></rom>
+    <rom name="ggw.01" size="131072" crc="4c6351d5"></rom>
+    <rom name="ggw.11m" size="4194304" crc="e172acf5"></rom>
+    <rom name="ggw.12m" size="4194304" crc="4bee4e8f"></rom>
+  </game>
+  <game name="hsf2">
+    <description>Hyper Street Fighter 2: The Anniversary Edition (040202 USA)</description>
+    <year>2004</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="hs2u.03" size="524288" crc="b308151e"></rom>
+    <rom name="hs2u.04" size="524288" crc="327aa49c"></rom>
+    <rom name="hs2.05" size="524288" crc="dde34a35"></rom>
+    <rom name="hs2.06" size="524288" crc="f4e56dda"></rom>
+    <rom name="hs2.07" size="524288" crc="ee4420fc"></rom>
+    <rom name="hs2.08" size="524288" crc="c9441533"></rom>
+    <rom name="hs2.09" size="524288" crc="3fc638a8"></rom>
+    <rom name="hs2.10" size="524288" crc="20d0f9e4"></rom>
+    <rom name="hs2.13m" size="8388608" crc="a6ecab17"></rom>
+    <rom name="hs2.15m" size="8388608" crc="10a0ae4d"></rom>
+    <rom name="hs2.17m" size="8388608" crc="adfa7726"></rom>
+    <rom name="hs2.19m" size="8388608" crc="bb3ae322"></rom>
+    <rom name="hs2.01" size="131072" crc="c1a13786"></rom>
+    <rom name="hs2.02" size="131072" crc="2d8794aa"></rom>
+    <rom name="hs2.11m" size="8388608" crc="0e15c359"></rom>
+  </game>
+  <game name="jyangoku">
+    <description>Jyangokushi  -Haoh no Saihai- (990527 Japan)</description>
+    <year>1999</year>
+    <manufacturer>Mitchell</manufacturer>
+    <rom name="majj.03" size="524288" crc="4614a3b2"></rom>
+    <rom name="maj1_d.simm1" size="2097152" crc="ba0fe27b"></rom>
+    <rom name="maj1_c.simm1" size="2097152" crc="2cd141bf"></rom>
+    <rom name="maj1_b.simm1" size="2097152" crc="e29e4c26"></rom>
+    <rom name="maj1_a.simm1" size="2097152" crc="7f68b88a"></rom>
+    <rom name="maj3_d.simm3" size="2097152" crc="3aaeb90b"></rom>
+    <rom name="maj3_c.simm3" size="2097152" crc="97894cea"></rom>
+    <rom name="maj3_b.simm3" size="2097152" crc="ec737d9d"></rom>
+    <rom name="maj3_a.simm3" size="2097152" crc="c23b6f22"></rom>
+    <rom name="maj.01" size="131072" crc="1fe8c213"></rom>
+    <rom name="maj5_a.simm5" size="2097152" crc="5ad9ee53"></rom>
+    <rom name="maj5_b.simm5" size="2097152" crc="efb3dbfb"></rom>
+  </game>
+  <game name="mmatrix">
+    <description>Mars Matrix (000412 USA)</description>
+    <year>2000</year>
+    <manufacturer>Capcom / Takumi</manufacturer>
+    <rom name="mmxu.03" size="524288" crc="ab65b599"></rom>
+    <rom name="mmxu.04" size="524288" crc="0135fc6c"></rom>
+    <rom name="mmxu.05" size="524288" crc="f1fd2b84"></rom>
+    <rom name="mmx.13m" size="4194304" crc="04748718"></rom>
+    <rom name="mmx.15m" size="4194304" crc="38074f44"></rom>
+    <rom name="mmx.17m" size="4194304" crc="e4635e35"></rom>
+    <rom name="mmx.19m" size="4194304" crc="4400a3f2"></rom>
+    <rom name="mmx.14m" size="4194304" crc="d52bf491"></rom>
+    <rom name="mmx.16m" size="4194304" crc="23f70780"></rom>
+    <rom name="mmx.18m" size="4194304" crc="2562c9d5"></rom>
+    <rom name="mmx.20m" size="4194304" crc="583a9687"></rom>
+    <rom name="mmx.01" size="131072" crc="c57e8171"></rom>
+    <rom name="mmx.11m" size="4194304" crc="4180b39f"></rom>
+    <rom name="mmx.12m" size="4194304" crc="95e22a59"></rom>
+  </game>
+  <game name="msh">
+    <description>Marvel Super Heroes (951024 Euro)</description>
+    <year>1995</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="mshe.03e" size="524288" crc="bd951414"></rom>
+    <rom name="mshe.04e" size="524288" crc="19dd42f2"></rom>
+    <rom name="msh.05" size="524288" crc="6a091b9e"></rom>
+    <rom name="msh.06b" size="524288" crc="803e3fa4"></rom>
+    <rom name="msh.07a" size="524288" crc="c45f8e27"></rom>
+    <rom name="msh.08a" size="524288" crc="9ca6f12c"></rom>
+    <rom name="msh.09a" size="524288" crc="82ec27af"></rom>
+    <rom name="msh.10b" size="524288" crc="8d931196"></rom>
+    <rom name="msh.13m" size="4194304" crc="09d14566"></rom>
+    <rom name="msh.15m" size="4194304" crc="ee962057"></rom>
+    <rom name="msh.17m" size="4194304" crc="604ece14"></rom>
+    <rom name="msh.19m" size="4194304" crc="94a731e8"></rom>
+    <rom name="msh.14m" size="4194304" crc="4197973e"></rom>
+    <rom name="msh.16m" size="4194304" crc="438da4a0"></rom>
+    <rom name="msh.18m" size="4194304" crc="4db92d94"></rom>
+    <rom name="msh.20m" size="4194304" crc="a2b0c6c0"></rom>
+    <rom name="msh.01" size="131072" crc="c976e6f9"></rom>
+    <rom name="msh.02" size="131072" crc="ce67d0d9"></rom>
+    <rom name="msh.11m" size="2097152" crc="37ac6d30"></rom>
+    <rom name="msh.12m" size="2097152" crc="de092570"></rom>
+  </game>
+  <game name="mshvsf">
+    <description>Marvel Super Heroes vs Street Fighter (970625 Euro)</description>
+    <year>1997</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="mvse.03f" size="524288" crc="b72dc199"></rom>
+    <rom name="mvse.04f" size="524288" crc="6ef799f9"></rom>
+    <rom name="mvs.05a" size="524288" crc="1a5de0cb"></rom>
+    <rom name="mvs.06a" size="524288" crc="959f3030"></rom>
+    <rom name="mvs.07b" size="524288" crc="7f915bdb"></rom>
+    <rom name="mvs.08a" size="524288" crc="c2813884"></rom>
+    <rom name="mvs.09b" size="524288" crc="3ba08818"></rom>
+    <rom name="mvs.10b" size="524288" crc="cf0dba98"></rom>
+    <rom name="mvs.13m" size="4194304" crc="29b05fd9"></rom>
+    <rom name="mvs.15m" size="4194304" crc="faddccf1"></rom>
+    <rom name="mvs.17m" size="4194304" crc="97aaf4c7"></rom>
+    <rom name="mvs.19m" size="4194304" crc="cb70e915"></rom>
+    <rom name="mvs.14m" size="4194304" crc="b3b1972d"></rom>
+    <rom name="mvs.16m" size="4194304" crc="08aadb5d"></rom>
+    <rom name="mvs.18m" size="4194304" crc="c1228b35"></rom>
+    <rom name="mvs.20m" size="4194304" crc="366cc6c2"></rom>
+    <rom name="mvs.01" size="131072" crc="68252324"></rom>
+    <rom name="mvs.02" size="131072" crc="b34e773d"></rom>
+    <rom name="mvs.11m" size="4194304" crc="86219770"></rom>
+    <rom name="mvs.12m" size="4194304" crc="f2fd7f68"></rom>
+  </game>
+  <game name="mvsc">
+    <description>Marvel vs Capcom - clash of super heroes (980123 Euro)</description>
+    <year>1998</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="mvce.03a" size="524288" crc="824e4a90"></rom>
+    <rom name="mvce.04a" size="524288" crc="436c5a4e"></rom>
+    <rom name="mvc.05a" size="524288" crc="2d8c8e86"></rom>
+    <rom name="mvc.06a" size="524288" crc="8528e1f5"></rom>
+    <rom name="mvc.07" size="524288" crc="c3baa32b"></rom>
+    <rom name="mvc.08" size="524288" crc="bc002fcd"></rom>
+    <rom name="mvc.09" size="524288" crc="c67b26df"></rom>
+    <rom name="mvc.10" size="524288" crc="0fdd1e26"></rom>
+    <rom name="mvc.13m" size="4194304" crc="fa5f74bc"></rom>
+    <rom name="mvc.15m" size="4194304" crc="71938a8f"></rom>
+    <rom name="mvc.17m" size="4194304" crc="92741d07"></rom>
+    <rom name="mvc.19m" size="4194304" crc="bcb72fc6"></rom>
+    <rom name="mvc.14m" size="4194304" crc="7f1df4e4"></rom>
+    <rom name="mvc.16m" size="4194304" crc="90bd3203"></rom>
+    <rom name="mvc.18m" size="4194304" crc="67aaf727"></rom>
+    <rom name="mvc.20m" size="4194304" crc="8b0bade8"></rom>
+    <rom name="mvc.01" size="131072" crc="41629e95"></rom>
+    <rom name="mvc.02" size="131072" crc="963abf6b"></rom>
+    <rom name="mvc.11m" size="4194304" crc="850fe663"></rom>
+    <rom name="mvc.12m" size="4194304" crc="7ccb1896"></rom>
+  </game>
+  <game name="megaman2">
+    <description>Mega Man 2 - the power fighters (960708 USA)</description>
+    <year>1996</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="rm2u.03" size="524288" crc="8ffc2cd1"></rom>
+    <rom name="rm2u.04" size="524288" crc="bb30083a"></rom>
+    <rom name="rm2.05" size="524288" crc="02ee9efc"></rom>
+    <rom name="rm2.14m" size="2097152" crc="9b1f00b4"></rom>
+    <rom name="rm2.16m" size="2097152" crc="c2bb0c24"></rom>
+    <rom name="rm2.18m" size="2097152" crc="12257251"></rom>
+    <rom name="rm2.20m" size="2097152" crc="f9b6e786"></rom>
+    <rom name="rm2.01a" size="131072" crc="d18e7859"></rom>
+    <rom name="rm2.02" size="131072" crc="c463ece0"></rom>
+    <rom name="rm2.11m" size="2097152" crc="2106174d"></rom>
+    <rom name="rm2.12m" size="2097152" crc="546c1636"></rom>
+  </game>
+  <game name="mpang">
+    <description>Mighty! Pang (001010 Euro)</description>
+    <year>2000</year>
+    <manufacturer>Mitchell</manufacturer>
+    <rom name="mpne.03c" size="524288" crc="fe16fc9f"></rom>
+    <rom name="mpne.04c" size="524288" crc="2cc5ec22"></rom>
+    <rom name="mpn-simm.01c" size="2097152" crc="388db66b"></rom>
+    <rom name="mpn-simm.01d" size="2097152" crc="aff1b494"></rom>
+    <rom name="mpn-simm.01a" size="2097152" crc="a9c4857b"></rom>
+    <rom name="mpn-simm.01b" size="2097152" crc="f759df22"></rom>
+    <rom name="mpn-simm.03c" size="2097152" crc="dec6b720"></rom>
+    <rom name="mpn-simm.03d" size="2097152" crc="f8774c18"></rom>
+    <rom name="mpn-simm.03a" size="2097152" crc="c2aea4ec"></rom>
+    <rom name="mpn-simm.03b" size="2097152" crc="84d6dc33"></rom>
+    <rom name="mpn.01" size="131072" crc="90c7adb6"></rom>
+    <rom name="mpn-simm.05a" size="2097152" crc="318a2e21"></rom>
+    <rom name="mpn-simm.05b" size="2097152" crc="5462f4e8"></rom>
+  </game>
+  <game name="nwarr">
+    <description>Night Warriors - darkstalkers&apos; revenge (950316 Euro)</description>
+    <year>1995</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="vphe.03f" size="524288" crc="a922c44f"></rom>
+    <rom name="vphe.04c" size="524288" crc="7312d890"></rom>
+    <rom name="vphe.05d" size="524288" crc="cde8b506"></rom>
+    <rom name="vphe.06c" size="524288" crc="be99e7d0"></rom>
+    <rom name="vphe.07b" size="524288" crc="69e0e60c"></rom>
+    <rom name="vphe.08b" size="524288" crc="d95a3849"></rom>
+    <rom name="vphe.09b" size="524288" crc="9882561c"></rom>
+    <rom name="vphe.10b" size="524288" crc="976fa62f"></rom>
+    <rom name="vph.13m" size="4194304" crc="c51baf99"></rom>
+    <rom name="vph.15m" size="4194304" crc="3ce83c77"></rom>
+    <rom name="vph.17m" size="4194304" crc="4f2408e0"></rom>
+    <rom name="vph.19m" size="4194304" crc="9ff60250"></rom>
+    <rom name="vph.14m" size="4194304" crc="7a0e1add"></rom>
+    <rom name="vph.16m" size="4194304" crc="2f41ca75"></rom>
+    <rom name="vph.18m" size="4194304" crc="64498eed"></rom>
+    <rom name="vph.20m" size="4194304" crc="17f2433f"></rom>
+    <rom name="vph.01" size="131072" crc="5045dcac"></rom>
+    <rom name="vph.02" size="131072" crc="86b60e59"></rom>
+    <rom name="vph.11m" size="2097152" crc="e1837d33"></rom>
+    <rom name="vph.12m" size="2097152" crc="fbd3cd90"></rom>
+  </game>
+  <game name="progear">
+    <description>Progear (010117 USA)</description>
+    <year>2001</year>
+    <manufacturer>Capcom / Cave</manufacturer>
+    <rom name="pgau.03" size="524288" crc="343a783e"></rom>
+    <rom name="pgau.04" size="524288" crc="16208d79"></rom>
+    <rom name="pga-simm.01c" size="2097152" crc="452f98b0"></rom>
+    <rom name="pga-simm.01d" size="2097152" crc="9e672092"></rom>
+    <rom name="pga-simm.01a" size="2097152" crc="ae9ddafe"></rom>
+    <rom name="pga-simm.01b" size="2097152" crc="94d72d94"></rom>
+    <rom name="pga-simm.03c" size="2097152" crc="48a1886d"></rom>
+    <rom name="pga-simm.03d" size="2097152" crc="172d7e37"></rom>
+    <rom name="pga-simm.03a" size="2097152" crc="9ee33d98"></rom>
+    <rom name="pga-simm.03b" size="2097152" crc="848dee32"></rom>
+    <rom name="pga.01" size="131072" crc="bdbfa992"></rom>
+    <rom name="pga-simm.05a" size="2097152" crc="c0aac80c"></rom>
+    <rom name="pga-simm.05b" size="2097152" crc="37a65d86"></rom>
+    <rom name="pga-simm.06a" size="2097152" crc="d3f1e934"></rom>
+    <rom name="pga-simm.06b" size="2097152" crc="8b39489a"></rom>
+  </game>
+  <game name="pzloop2">
+    <description>Puzz Loop 2 (010302 Euro)</description>
+    <year>2001</year>
+    <manufacturer>Mitchell, distritued by Capcom</manufacturer>
+    <rom name="pl2e.03" size="524288" crc="3b1285b2"></rom>
+    <rom name="pl2e.04" size="524288" crc="40a2d647"></rom>
+    <rom name="pl2e.05" size="524288" crc="0f11d818"></rom>
+    <rom name="pl2e.06" size="524288" crc="86fbbdf4"></rom>
+    <rom name="pl2-simm.01c" size="2097152" crc="137b13a7"></rom>
+    <rom name="pl2-simm.01d" size="2097152" crc="a2db1507"></rom>
+    <rom name="pl2-simm.01a" size="2097152" crc="7e80ff8e"></rom>
+    <rom name="pl2-simm.01b" size="2097152" crc="cd93e6ed"></rom>
+    <rom name="pl2-simm.03c" size="2097152" crc="0f52bbca"></rom>
+    <rom name="pl2-simm.03d" size="2097152" crc="a62712c3"></rom>
+    <rom name="pl2-simm.03a" size="2097152" crc="b60c9f8e"></rom>
+    <rom name="pl2-simm.03b" size="2097152" crc="83fef284"></rom>
+    <rom name="pl2.01" size="131072" crc="35697569"></rom>
+    <rom name="pl2-simm.05a" size="2097152" crc="85d8fbe8"></rom>
+    <rom name="pl2-simm.05b" size="2097152" crc="1ed62584"></rom>
+  </game>
+  <game name="qndream">
+    <description>Quiz Nanairo Dreams - nijiirochou no kiseki (nanairo dreams 960826 Japan)</description>
+    <year>1996</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="tqzj.03a" size="524288" crc="7acf3e30"></rom>
+    <rom name="tqzj.04" size="524288" crc="f1044a87"></rom>
+    <rom name="tqzj.05" size="524288" crc="4105ba0e"></rom>
+    <rom name="tqzj.06" size="524288" crc="c371e8a5"></rom>
+    <rom name="tqz.14m" size="2097152" crc="98af88a2"></rom>
+    <rom name="tqz.16m" size="2097152" crc="df82d491"></rom>
+    <rom name="tqz.18m" size="2097152" crc="42f132ff"></rom>
+    <rom name="tqz.20m" size="2097152" crc="b2e128a3"></rom>
+    <rom name="tqz.01" size="131072" crc="e9ce9d0a"></rom>
+    <rom name="tqz.11m" size="2097152" crc="78e7884f"></rom>
+    <rom name="tqz.12m" size="2097152" crc="2e049b13"></rom>
+  </game>
+  <game name="ringdest">
+    <description>Ring of Destruction - slammasters II (940902 Euro)</description>
+    <year>1994</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="smbe.03b" size="524288" crc="b8016278"></rom>
+    <rom name="smbe.04b" size="524288" crc="18c4c447"></rom>
+    <rom name="smbe.05b" size="524288" crc="18ebda7f"></rom>
+    <rom name="smbe.06b" size="524288" crc="89c80007"></rom>
+    <rom name="smb.07" size="524288" crc="b9a11577"></rom>
+    <rom name="smb.08" size="524288" crc="f931b76b"></rom>
+    <rom name="smb.13m" size="2097152" crc="d9b2d1de"></rom>
+    <rom name="smb.15m" size="2097152" crc="9a766d92"></rom>
+    <rom name="smb.17m" size="2097152" crc="51800f0f"></rom>
+    <rom name="smb.19m" size="2097152" crc="35757e96"></rom>
+    <rom name="smb.14m" size="2097152" crc="e5bfd0e7"></rom>
+    <rom name="smb.16m" size="2097152" crc="c56c0866"></rom>
+    <rom name="smb.18m" size="2097152" crc="4ded3910"></rom>
+    <rom name="smb.20m" size="2097152" crc="26ea1ec5"></rom>
+    <rom name="smb.21m" size="524288" crc="0a08c5fc"></rom>
+    <rom name="smb.23m" size="524288" crc="0911b6c4"></rom>
+    <rom name="smb.25m" size="524288" crc="82d6c4ec"></rom>
+    <rom name="smb.27m" size="524288" crc="9b48678b"></rom>
+    <rom name="smb.01" size="131072" crc="0abc229a"></rom>
+    <rom name="smb.02" size="131072" crc="d051679a"></rom>
+    <rom name="smb.11m" size="2097152" crc="c56935f9"></rom>
+    <rom name="smb.12m" size="2097152" crc="955b0782"></rom>
+  </game>
+  <game name="sfa">
+    <description>Street Fighter Alpha - warriors&apos; dreams (950727 Euro)</description>
+    <year>1995</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="sfze.03d" size="524288" crc="ebf2054d"></rom>
+    <rom name="sfz.04b" size="524288" crc="8b73b0e5"></rom>
+    <rom name="sfz.05a" size="524288" crc="0810544d"></rom>
+    <rom name="sfz.06" size="524288" crc="806e8f38"></rom>
+    <rom name="sfz.14m" size="2097152" crc="90fefdb3"></rom>
+    <rom name="sfz.16m" size="2097152" crc="5354c948"></rom>
+    <rom name="sfz.18m" size="2097152" crc="41a1e790"></rom>
+    <rom name="sfz.20m" size="2097152" crc="a549df98"></rom>
+    <rom name="sfz.01" size="131072" crc="ffffec7d"></rom>
+    <rom name="sfz.02" size="131072" crc="45f46a08"></rom>
+    <rom name="sfz.11m" size="2097152" crc="c4b093cd"></rom>
+    <rom name="sfz.12m" size="2097152" crc="8bdbc4b4"></rom>
+  </game>
+  <game name="sfa2">
+    <description>Street Fighter Alpha 2 (960229 Euro)</description>
+    <year>1996</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="sz2e.03" size="524288" crc="1061e6bb"></rom>
+    <rom name="sz2e.04" size="524288" crc="22d17b26"></rom>
+    <rom name="sz2.05" size="524288" crc="4b442a7c"></rom>
+    <rom name="sz2.06" size="524288" crc="5b1d49c0"></rom>
+    <rom name="sz2.07" size="524288" crc="8e184246"></rom>
+    <rom name="sz2.08" size="524288" crc="0fe8585d"></rom>
+    <rom name="sz2.13m" size="4194304" crc="4d1f1f22"></rom>
+    <rom name="sz2.15m" size="4194304" crc="19cea680"></rom>
+    <rom name="sz2.17m" size="4194304" crc="e01b4588"></rom>
+    <rom name="sz2.19m" size="4194304" crc="0feeda64"></rom>
+    <rom name="sz2.14m" size="1048576" crc="0560c6aa"></rom>
+    <rom name="sz2.16m" size="1048576" crc="ae940f87"></rom>
+    <rom name="sz2.18m" size="1048576" crc="4bc3c8bc"></rom>
+    <rom name="sz2.20m" size="1048576" crc="39e674c0"></rom>
+    <rom name="sz2.01a" size="131072" crc="1bc323cf"></rom>
+    <rom name="sz2.02a" size="131072" crc="ba6a5013"></rom>
+    <rom name="sz2.11m" size="2097152" crc="aa47a601"></rom>
+    <rom name="sz2.12m" size="2097152" crc="2237bc53"></rom>
+  </game>
+  <game name="sfa3">
+    <description>Street Fighter Alpha 3 (980904 Euro)</description>
+    <year>1998</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="sz3e.03c" size="524288" crc="9762b206"></rom>
+    <rom name="sz3e.04c" size="524288" crc="5ad3f721"></rom>
+    <rom name="sz3.05c" size="524288" crc="57fd0a40"></rom>
+    <rom name="sz3.06c" size="524288" crc="f6305f8b"></rom>
+    <rom name="sz3.07c" size="524288" crc="6eab0f6f"></rom>
+    <rom name="sz3.08c" size="524288" crc="910c4a3b"></rom>
+    <rom name="sz3.09c" size="524288" crc="b29e5199"></rom>
+    <rom name="sz3.10b" size="524288" crc="deb2ff52"></rom>
+    <rom name="sz3.13m" size="4194304" crc="0f7a60d9"></rom>
+    <rom name="sz3.15m" size="4194304" crc="8e933741"></rom>
+    <rom name="sz3.17m" size="4194304" crc="d6e98147"></rom>
+    <rom name="sz3.19m" size="4194304" crc="f31a728a"></rom>
+    <rom name="sz3.14m" size="4194304" crc="5ff98297"></rom>
+    <rom name="sz3.16m" size="4194304" crc="52b5bdee"></rom>
+    <rom name="sz3.18m" size="4194304" crc="40631ed5"></rom>
+    <rom name="sz3.20m" size="4194304" crc="763409b4"></rom>
+    <rom name="sz3.01" size="131072" crc="de810084"></rom>
+    <rom name="sz3.02" size="131072" crc="72445dc4"></rom>
+    <rom name="sz3.11m" size="4194304" crc="1c89eed1"></rom>
+    <rom name="sz3.12m" size="4194304" crc="f392b13a"></rom>
+  </game>
+  <game name="sfz2al">
+    <description>Street Fighter Zero 2 Alpha (960826 Asia)</description>
+    <year>1996</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="szaa.03" size="524288" crc="88e7023e"></rom>
+    <rom name="szaa.04" size="524288" crc="ae8ec36e"></rom>
+    <rom name="szaa.05" size="524288" crc="f053a55e"></rom>
+    <rom name="szaa.06" size="524288" crc="cfc0e7a8"></rom>
+    <rom name="szaa.07" size="524288" crc="5feb8b20"></rom>
+    <rom name="szaa.08" size="524288" crc="6eb6d412"></rom>
+    <rom name="sza.13m" size="4194304" crc="4d1f1f22"></rom>
+    <rom name="sza.15m" size="4194304" crc="19cea680"></rom>
+    <rom name="sza.17m" size="4194304" crc="e01b4588"></rom>
+    <rom name="sza.19m" size="4194304" crc="0feeda64"></rom>
+    <rom name="sza.14m" size="1048576" crc="0560c6aa"></rom>
+    <rom name="sza.16m" size="1048576" crc="ae940f87"></rom>
+    <rom name="sza.18m" size="1048576" crc="4bc3c8bc"></rom>
+    <rom name="sza.20m" size="1048576" crc="39e674c0"></rom>
+    <rom name="sza.01" size="131072" crc="1bc323cf"></rom>
+    <rom name="sza.02" size="131072" crc="ba6a5013"></rom>
+    <rom name="sza.11m" size="2097152" crc="aa47a601"></rom>
+    <rom name="sza.12m" size="2097152" crc="2237bc53"></rom>
+  </game>
+  <game name="sgemf">
+    <description>Super Gem Fighter Mini Mix (970904 USA)</description>
+    <year>1997</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="pcfu.03" size="524288" crc="ac2e8566"></rom>
+    <rom name="pcf.04" size="524288" crc="f4314c96"></rom>
+    <rom name="pcf.05" size="524288" crc="215655f6"></rom>
+    <rom name="pcf.06" size="524288" crc="ea6f13ea"></rom>
+    <rom name="pcf.07" size="524288" crc="5ac6d5ea"></rom>
+    <rom name="pcf.13m" size="4194304" crc="22d72ab9"></rom>
+    <rom name="pcf.15m" size="4194304" crc="16a4813c"></rom>
+    <rom name="pcf.17m" size="4194304" crc="1097e035"></rom>
+    <rom name="pcf.19m" size="4194304" crc="d362d874"></rom>
+    <rom name="pcf.14m" size="1048576" crc="0383897c"></rom>
+    <rom name="pcf.16m" size="1048576" crc="76f91084"></rom>
+    <rom name="pcf.18m" size="1048576" crc="756c3754"></rom>
+    <rom name="pcf.20m" size="1048576" crc="9ec9277d"></rom>
+    <rom name="pcf.01" size="131072" crc="254e5f33"></rom>
+    <rom name="pcf.02" size="131072" crc="6902f4f9"></rom>
+    <rom name="pcf.11m" size="4194304" crc="a5dea005"></rom>
+    <rom name="pcf.12m" size="4194304" crc="4ce235fe"></rom>
+  </game>
+  <game name="spf2t">
+    <description>Super Puzzle Fighter II Turbo (Super Puzzle Fighter 2 Turbo 960620 USA)</description>
+    <year>1996</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="pzfu.03a" size="524288" crc="346e62ef"></rom>
+    <rom name="pzf.04" size="524288" crc="b80649e2"></rom>
+    <rom name="pzf.14m" size="1048576" crc="2d4881cb"></rom>
+    <rom name="pzf.16m" size="1048576" crc="4b0fd1be"></rom>
+    <rom name="pzf.18m" size="1048576" crc="e43aac33"></rom>
+    <rom name="pzf.20m" size="1048576" crc="7f536ff1"></rom>
+    <rom name="pzf.01" size="131072" crc="600fb2a3"></rom>
+    <rom name="pzf.02" size="131072" crc="496076e0"></rom>
+    <rom name="pzf.11m" size="2097152" crc="78442743"></rom>
+    <rom name="pzf.12m" size="2097152" crc="399d2c7b"></rom>
+  </game>
+  <game name="ssf2">
+    <description>Super Street Fighter II - the new challengers (super street fighter 2 930911 etc)</description>
+    <year>1993</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="ssfe.03" size="524288" crc="a597745d"></rom>
+    <rom name="ssfe.04" size="524288" crc="b082aa67"></rom>
+    <rom name="ssfe.05" size="524288" crc="02b9c137"></rom>
+    <rom name="ssfe.06" size="524288" crc="70d470c5"></rom>
+    <rom name="ssfe.07" size="524288" crc="2409001d"></rom>
+    <rom name="ssf.13m" size="2097152" crc="cf94d275"></rom>
+    <rom name="ssf.15m" size="2097152" crc="5eb703af"></rom>
+    <rom name="ssf.17m" size="2097152" crc="ffa60e0f"></rom>
+    <rom name="ssf.19m" size="2097152" crc="34e825c5"></rom>
+    <rom name="ssf.14m" size="1048576" crc="b7cc32e7"></rom>
+    <rom name="ssf.16m" size="1048576" crc="8376ad18"></rom>
+    <rom name="ssf.18m" size="1048576" crc="f5b1b336"></rom>
+    <rom name="ssf.20m" size="1048576" crc="459d5c6b"></rom>
+    <rom name="ssf.01" size="131072" crc="eb247e8c"></rom>
+    <rom name="ssf.q01" size="524288" crc="a6f9da5c"></rom>
+    <rom name="ssf.q02" size="524288" crc="8c66ae26"></rom>
+    <rom name="ssf.q03" size="524288" crc="695cc2ca"></rom>
+    <rom name="ssf.q04" size="524288" crc="9d9ebe32"></rom>
+    <rom name="ssf.q05" size="524288" crc="4770e7b7"></rom>
+    <rom name="ssf.q06" size="524288" crc="4e79c951"></rom>
+    <rom name="ssf.q07" size="524288" crc="cdd14313"></rom>
+    <rom name="ssf.q08" size="524288" crc="6f5a088c"></rom>
+  </game>
+  <game name="ssf2t">
+    <description>Super Street Fighter II Turbo (super street fighter 2 X 940223 etc)</description>
+    <year>1994</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="sfxe.03c" size="524288" crc="2fa1f396"></rom>
+    <rom name="sfxe.04a" size="524288" crc="d0bc29c6"></rom>
+    <rom name="sfxe.05" size="524288" crc="65222964"></rom>
+    <rom name="sfxe.06a" size="524288" crc="8fe9f531"></rom>
+    <rom name="sfxe.07" size="524288" crc="8a7d0cb6"></rom>
+    <rom name="sfxe.08" size="524288" crc="74c24062"></rom>
+    <rom name="sfx.09" size="524288" crc="642fae3f"></rom>
+    <rom name="sfx.13m" size="2097152" crc="cf94d275"></rom>
+    <rom name="sfx.15m" size="2097152" crc="5eb703af"></rom>
+    <rom name="sfx.17m" size="2097152" crc="ffa60e0f"></rom>
+    <rom name="sfx.19m" size="2097152" crc="34e825c5"></rom>
+    <rom name="sfx.14m" size="1048576" crc="b7cc32e7"></rom>
+    <rom name="sfx.16m" size="1048576" crc="8376ad18"></rom>
+    <rom name="sfx.18m" size="1048576" crc="f5b1b336"></rom>
+    <rom name="sfx.20m" size="1048576" crc="459d5c6b"></rom>
+    <rom name="sfx.21m" size="1048576" crc="e32854af"></rom>
+    <rom name="sfx.23m" size="1048576" crc="760f2927"></rom>
+    <rom name="sfx.25m" size="1048576" crc="1ee90208"></rom>
+    <rom name="sfx.27m" size="1048576" crc="f814400f"></rom>
+    <rom name="sfx.01" size="131072" crc="b47b8835"></rom>
+    <rom name="sfx.02" size="131072" crc="0022633f"></rom>
+    <rom name="sfx.11m" size="2097152" crc="9bdbd476"></rom>
+    <rom name="sfx.12m" size="2097152" crc="a05e3aab"></rom>
+  </game>
+  <game name="vhunt2">
+    <description>Vampire Hunter 2 - darkstalkers revenge (970929 Japan)</description>
+    <year>1997</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="vh2j.03a" size="524288" crc="9ae8f186"></rom>
+    <rom name="vh2j.04a" size="524288" crc="e2fabf53"></rom>
+    <rom name="vh2j.05" size="524288" crc="de34f624"></rom>
+    <rom name="vh2j.06" size="524288" crc="6a3b9897"></rom>
+    <rom name="vh2j.07" size="524288" crc="b021c029"></rom>
+    <rom name="vh2j.08" size="524288" crc="ac873dff"></rom>
+    <rom name="vh2j.09" size="524288" crc="eaefce9c"></rom>
+    <rom name="vh2j.10" size="524288" crc="11730952"></rom>
+    <rom name="vh2.13m" size="4194304" crc="3b02ddaa"></rom>
+    <rom name="vh2.15m" size="4194304" crc="4e40de66"></rom>
+    <rom name="vh2.17m" size="4194304" crc="b31d00c9"></rom>
+    <rom name="vh2.19m" size="4194304" crc="149be3ab"></rom>
+    <rom name="vh2.14m" size="4194304" crc="cd09bd63"></rom>
+    <rom name="vh2.16m" size="4194304" crc="e0182c15"></rom>
+    <rom name="vh2.18m" size="4194304" crc="778dc4f6"></rom>
+    <rom name="vh2.20m" size="4194304" crc="605d9d1d"></rom>
+    <rom name="vh2.01" size="131072" crc="67b9f779"></rom>
+    <rom name="vh2.02" size="131072" crc="aaf15fcb"></rom>
+    <rom name="vh2.11m" size="4194304" crc="38922efd"></rom>
+    <rom name="vh2.12m" size="4194304" crc="6e2430af"></rom>
+  </game>
+  <game name="vsav">
+    <description>Vampire Savior - the lord of vampire (970519 Euro)</description>
+    <year>1997</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="vm3e.03d" size="524288" crc="f5962a8c"></rom>
+    <rom name="vm3e.04d" size="524288" crc="21b40ea2"></rom>
+    <rom name="vm3.05a" size="524288" crc="4118e00f"></rom>
+    <rom name="vm3.06a" size="524288" crc="2f4fd3a9"></rom>
+    <rom name="vm3.07b" size="524288" crc="cbda91b8"></rom>
+    <rom name="vm3.08a" size="524288" crc="6ca47259"></rom>
+    <rom name="vm3.09b" size="524288" crc="f4a339e3"></rom>
+    <rom name="vm3.10b" size="524288" crc="fffbb5b8"></rom>
+    <rom name="vm3.13m" size="4194304" crc="fd8a11eb"></rom>
+    <rom name="vm3.15m" size="4194304" crc="dd1e7d4e"></rom>
+    <rom name="vm3.17m" size="4194304" crc="6b89445e"></rom>
+    <rom name="vm3.19m" size="4194304" crc="3830fdc7"></rom>
+    <rom name="vm3.14m" size="4194304" crc="c1a28e6c"></rom>
+    <rom name="vm3.16m" size="4194304" crc="194a7304"></rom>
+    <rom name="vm3.18m" size="4194304" crc="df9a9f47"></rom>
+    <rom name="vm3.20m" size="4194304" crc="c22fc3d9"></rom>
+    <rom name="vm3.01" size="131072" crc="f778769b"></rom>
+    <rom name="vm3.02" size="131072" crc="cc09faa1"></rom>
+    <rom name="vm3.11m" size="4194304" crc="e80e956e"></rom>
+    <rom name="vm3.12m" size="4194304" crc="9cd71557"></rom>
+  </game>
+  <game name="vsav2">
+    <description>Vampire Savior 2 - the lord of vampire (970913 Japan)</description>
+    <year>1997</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="vs2j.03" size="524288" crc="89fd86b4"></rom>
+    <rom name="vs2j.04" size="524288" crc="107c091b"></rom>
+    <rom name="vs2j.05" size="524288" crc="61979638"></rom>
+    <rom name="vs2j.06" size="524288" crc="f37c5bc2"></rom>
+    <rom name="vs2j.07" size="524288" crc="8f885809"></rom>
+    <rom name="vs2j.08" size="524288" crc="2018c120"></rom>
+    <rom name="vs2j.09" size="524288" crc="fac3c217"></rom>
+    <rom name="vs2j.10" size="524288" crc="eb490213"></rom>
+    <rom name="vs2.13m" size="4194304" crc="5c852f52"></rom>
+    <rom name="vs2.15m" size="4194304" crc="a20f58af"></rom>
+    <rom name="vs2.17m" size="4194304" crc="39db59ad"></rom>
+    <rom name="vs2.19m" size="4194304" crc="00c763a7"></rom>
+    <rom name="vs2.14m" size="4194304" crc="cd09bd63"></rom>
+    <rom name="vs2.16m" size="4194304" crc="e0182c15"></rom>
+    <rom name="vs2.18m" size="4194304" crc="778dc4f6"></rom>
+    <rom name="vs2.20m" size="4194304" crc="605d9d1d"></rom>
+    <rom name="vs2.01" size="131072" crc="35190139"></rom>
+    <rom name="vs2.02" size="131072" crc="c32dba09"></rom>
+    <rom name="vs2.11m" size="4194304" crc="d67e47b7"></rom>
+    <rom name="vs2.12m" size="4194304" crc="6d020a14"></rom>
+  </game>
+  <game name="xmcota">
+    <description>X-Men - children of the atom (950331 Euro)</description>
+    <year>1995</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="xmne.03f" size="524288" crc="5a726d13"></rom>
+    <rom name="xmne.04f" size="524288" crc="06a83f3a"></rom>
+    <rom name="xmne.05b" size="524288" crc="87b0ed0f"></rom>
+    <rom name="xmn.06a" size="524288" crc="1b86a328"></rom>
+    <rom name="xmn.07a" size="524288" crc="2c142a44"></rom>
+    <rom name="xmn.08a" size="524288" crc="f712d44f"></rom>
+    <rom name="xmn.09a" size="524288" crc="9241cae8"></rom>
+    <rom name="xmne.10b" size="524288" crc="cb36b0a4"></rom>
+    <rom name="xmn.13m" size="4194304" crc="bf4df073"></rom>
+    <rom name="xmn.15m" size="4194304" crc="4d7e4cef"></rom>
+    <rom name="xmn.17m" size="4194304" crc="513eea17"></rom>
+    <rom name="xmn.19m" size="4194304" crc="d23897fc"></rom>
+    <rom name="xmn.14m" size="4194304" crc="778237b7"></rom>
+    <rom name="xmn.16m" size="4194304" crc="67b36948"></rom>
+    <rom name="xmn.18m" size="4194304" crc="015a7c4c"></rom>
+    <rom name="xmn.20m" size="4194304" crc="9dde2758"></rom>
+    <rom name="xmn.01a" size="131072" crc="40f479ea"></rom>
+    <rom name="xmn.02a" size="131072" crc="39d9b5ad"></rom>
+    <rom name="xmn.11m" size="2097152" crc="c848a6bc"></rom>
+    <rom name="xmn.12m" size="2097152" crc="729c188f"></rom>
+  </game>
+  <game name="xmvsf">
+    <description>X-Men vs Street Fighter (961004 Euro)</description>
+    <year>1996</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="xvse.03f" size="524288" crc="db06413f"></rom>
+    <rom name="xvse.04f" size="524288" crc="ef015aef"></rom>
+    <rom name="xvs.05a" size="524288" crc="7db6025d"></rom>
+    <rom name="xvs.06a" size="524288" crc="e8e2c75c"></rom>
+    <rom name="xvs.07" size="524288" crc="08f0abed"></rom>
+    <rom name="xvs.08" size="524288" crc="81929675"></rom>
+    <rom name="xvs.09" size="524288" crc="9641f36b"></rom>
+    <rom name="xvs.13m" size="4194304" crc="f6684efd"></rom>
+    <rom name="xvs.15m" size="4194304" crc="29109221"></rom>
+    <rom name="xvs.17m" size="4194304" crc="92db3474"></rom>
+    <rom name="xvs.19m" size="4194304" crc="3733473c"></rom>
+    <rom name="xvs.14m" size="4194304" crc="bcac2e41"></rom>
+    <rom name="xvs.16m" size="4194304" crc="ea04a272"></rom>
+    <rom name="xvs.18m" size="4194304" crc="b0def86a"></rom>
+    <rom name="xvs.20m" size="4194304" crc="4b40ff9f"></rom>
+    <rom name="xvs.01" size="131072" crc="3999e93a"></rom>
+    <rom name="xvs.02" size="131072" crc="101bdee9"></rom>
+    <rom name="xvs.11m" size="2097152" crc="9cadcdbc"></rom>
+    <rom name="xvs.12m" size="2097152" crc="7b11e460"></rom>
+  </game>
+</datafile>

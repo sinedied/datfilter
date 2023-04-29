@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+<datafile>
+  <header>
+    <name>FB Alpha - Arcade Games</name>
+    <description>FB Alpha v0.2.97.29 Arcade Games</description>
+    <category>Standard DatFile</category>
+    <version>0.2.97.29</version>
+    <author>FB Alpha</author>
+    <homepage>http://www.barryharris.me.uk/</homepage>
+    <url>http://www.barryharris.me.uk/</url>
+    <clrmamepro forcenodump="ignore"></clrmamepro>
+  </header>
+  <game name="jojoba">
+    <description>JoJo&apos;s Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990927)</description>
+    <year>1999</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="jojoba_japan.29f400.u2" size="524288" crc="3085478c"></rom>
+    <rom name="jojoba(__990927)-simm1.0" size="2097152" crc="adcd8377"></rom>
+    <rom name="jojoba(__990927)-simm1.1" size="2097152" crc="d7590b59"></rom>
+    <rom name="jojoba(__990927)-simm1.2" size="2097152" crc="e62e240b"></rom>
+    <rom name="jojoba(__990927)-simm1.3" size="2097152" crc="c95450c3"></rom>
+    <rom name="jojoba(__990927)-simm2.0" size="2097152" crc="535f2eba"></rom>
+    <rom name="jojoba(__990927)-simm2.1" size="2097152" crc="01dd3a01"></rom>
+    <rom name="jojoba(__990927)-simm2.2" size="2097152" crc="61432672"></rom>
+    <rom name="jojoba(__990927)-simm2.3" size="2097152" crc="acdc9aca"></rom>
+    <rom name="jojoba-simm3.0" size="2097152" crc="4d16e111"></rom>
+    <rom name="jojoba-simm3.1" size="2097152" crc="9b3406d3"></rom>
+    <rom name="jojoba-simm3.2" size="2097152" crc="f2414997"></rom>
+    <rom name="jojoba-simm3.3" size="2097152" crc="954b9c7d"></rom>
+    <rom name="jojoba-simm3.4" size="2097152" crc="625adc1d"></rom>
+    <rom name="jojoba-simm3.5" size="2097152" crc="20a70bb4"></rom>
+    <rom name="jojoba-simm3.6" size="2097152" crc="a10ec5af"></rom>
+    <rom name="jojoba-simm3.7" size="2097152" crc="0bd0de7a"></rom>
+    <rom name="jojoba-simm4.0" size="2097152" crc="6ea14adc"></rom>
+    <rom name="jojoba-simm4.1" size="2097152" crc="8f4c42fb"></rom>
+    <rom name="jojoba-simm4.2" size="2097152" crc="ef0586d1"></rom>
+    <rom name="jojoba-simm4.3" size="2097152" crc="93ccc470"></rom>
+    <rom name="jojoba-simm4.4" size="2097152" crc="3d9ec7d2"></rom>
+    <rom name="jojoba-simm4.5" size="2097152" crc="03e66850"></rom>
+    <rom name="jojoba-simm4.6" size="2097152" crc="01606ac3"></rom>
+    <rom name="jojoba-simm4.7" size="2097152" crc="36392b87"></rom>
+    <rom name="jojoba-simm5.0" size="2097152" crc="2ef8c60c"></rom>
+    <rom name="jojoba-simm5.1" size="2097152" crc="cf7d7ca6"></rom>
+    <rom name="jojoba-simm5.2" size="2097152" crc="b7815bfa"></rom>
+    <rom name="jojoba-simm5.3" size="2097152" crc="9bfec049"></rom>
+    <rom name="jojoba-simm5.4" size="2097152" crc="d167536b"></rom>
+    <rom name="jojoba-simm5.5" size="2097152" crc="55e7a042"></rom>
+    <rom name="jojoba-simm5.6" size="2097152" crc="4fb32906"></rom>
+    <rom name="jojoba-simm5.7" size="2097152" crc="8c8be520"></rom>
+  </game>
+  <game name="jojo">
+    <description>JoJo&apos;s Venture / JoJo no Kimyou na Bouken (USA 990128)</description>
+    <year>1998</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="jojo_usa.29f400.u2" size="524288" crc="8d40f7be"></rom>
+    <rom name="jojo(__990128)-simm1.0" size="2097152" crc="9516948b"></rom>
+    <rom name="jojo(__990128)-simm1.1" size="2097152" crc="a847848d"></rom>
+    <rom name="jojo(__990128)-simm1.2" size="2097152" crc="853e8846"></rom>
+    <rom name="jojo(__990128)-simm1.3" size="2097152" crc="c04fe00e"></rom>
+    <rom name="jojo(__990128)-simm2.0" size="2097152" crc="e1a4b3c8"></rom>
+    <rom name="jojo(__990128)-simm2.1" size="2097152" crc="189cef95"></rom>
+    <rom name="jojo(__990128)-simm2.2" size="2097152" crc="47db5ec6"></rom>
+    <rom name="jojo(__990128)-simm2.3" size="2097152" crc="e3d3a155"></rom>
+    <rom name="jojo-simm3.0" size="2097152" crc="de7fc9c1"></rom>
+    <rom name="jojo-simm3.1" size="2097152" crc="43d053d3"></rom>
+    <rom name="jojo-simm3.2" size="2097152" crc="2ffd7fa5"></rom>
+    <rom name="jojo-simm3.3" size="2097152" crc="4da4985b"></rom>
+    <rom name="jojo-simm3.4" size="2097152" crc="fde98d72"></rom>
+    <rom name="jojo-simm3.5" size="2097152" crc="edb2a266"></rom>
+    <rom name="jojo-simm3.6" size="2097152" crc="be7cf319"></rom>
+    <rom name="jojo-simm3.7" size="2097152" crc="56fe1a9f"></rom>
+    <rom name="jojo-simm4.0" size="2097152" crc="c4e7bf68"></rom>
+    <rom name="jojo-simm4.1" size="2097152" crc="b62b2719"></rom>
+    <rom name="jojo-simm4.2" size="2097152" crc="18d15809"></rom>
+    <rom name="jojo-simm4.3" size="2097152" crc="9af0ad79"></rom>
+    <rom name="jojo-simm4.4" size="2097152" crc="4124c1f0"></rom>
+    <rom name="jojo-simm4.5" size="2097152" crc="5e001fd1"></rom>
+    <rom name="jojo-simm4.6" size="2097152" crc="9affa23b"></rom>
+    <rom name="jojo-simm4.7" size="2097152" crc="2511572a"></rom>
+    <rom name="jojo-simm5.0" size="2097152" crc="797615fc"></rom>
+    <rom name="jojo-simm5.1" size="2097152" crc="734fd162"></rom>
+  </game>
+  <game name="redearth">
+    <description>Red Earth / War-Zard (Euro 961121)</description>
+    <year>1996</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="redearth_euro.29f400.u2" size="524288" crc="02e0f336"></rom>
+    <rom name="redearth(__961121)-simm1.0" size="2097152" crc="cad468f8"></rom>
+    <rom name="redearth(__961121)-simm1.1" size="2097152" crc="e9721d89"></rom>
+    <rom name="redearth(__961121)-simm1.2" size="2097152" crc="2889ec98"></rom>
+    <rom name="redearth(__961121)-simm1.3" size="2097152" crc="5a6cd148"></rom>
+    <rom name="redearth-simm3.0" size="2097152" crc="83350cc5"></rom>
+    <rom name="redearth-simm3.1" size="2097152" crc="56734de6"></rom>
+    <rom name="redearth-simm3.2" size="2097152" crc="800ea0f1"></rom>
+    <rom name="redearth-simm3.3" size="2097152" crc="97e9146c"></rom>
+    <rom name="redearth-simm3.4" size="2097152" crc="0cb1d648"></rom>
+    <rom name="redearth-simm3.5" size="2097152" crc="7a1099f0"></rom>
+    <rom name="redearth-simm3.6" size="2097152" crc="aeff8f54"></rom>
+    <rom name="redearth-simm3.7" size="2097152" crc="f770acd0"></rom>
+    <rom name="redearth-simm4.0" size="2097152" crc="301e56f2"></rom>
+    <rom name="redearth-simm4.1" size="2097152" crc="2048e103"></rom>
+    <rom name="redearth-simm4.2" size="2097152" crc="c9433455"></rom>
+    <rom name="redearth-simm4.3" size="2097152" crc="c02171a8"></rom>
+    <rom name="redearth-simm4.4" size="2097152" crc="2ddbf276"></rom>
+    <rom name="redearth-simm4.5" size="2097152" crc="fea820a6"></rom>
+    <rom name="redearth-simm4.6" size="2097152" crc="c7528df1"></rom>
+    <rom name="redearth-simm4.7" size="2097152" crc="2449cf3b"></rom>
+    <rom name="redearth-simm5.0" size="2097152" crc="424451b9"></rom>
+    <rom name="redearth-simm5.1" size="2097152" crc="9b8cb56b"></rom>
+  </game>
+  <game name="sfiii2">
+    <description>Street Fighter III 2nd Impact: Giant Attack (USA 970930)</description>
+    <year>1997</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="sfiii2_usa.29f400.u2" size="524288" crc="75dd72e0"></rom>
+    <rom name="sfiii2-simm1.0" size="2097152" crc="2d666f0b"></rom>
+    <rom name="sfiii2-simm1.1" size="2097152" crc="2a3a8ef6"></rom>
+    <rom name="sfiii2-simm1.2" size="2097152" crc="161d2206"></rom>
+    <rom name="sfiii2-simm1.3" size="2097152" crc="87ded8a3"></rom>
+    <rom name="sfiii2-simm2.0" size="2097152" crc="94a4ce0f"></rom>
+    <rom name="sfiii2-simm2.1" size="2097152" crc="67585033"></rom>
+    <rom name="sfiii2-simm2.2" size="2097152" crc="fabffcd5"></rom>
+    <rom name="sfiii2-simm2.3" size="2097152" crc="623c09ca"></rom>
+    <rom name="sfiii2-simm3.0" size="2097152" crc="dab2d766"></rom>
+    <rom name="sfiii2-simm3.1" size="2097152" crc="1f2aa34b"></rom>
+    <rom name="sfiii2-simm3.2" size="2097152" crc="6f1a04eb"></rom>
+    <rom name="sfiii2-simm3.3" size="2097152" crc="e05ef205"></rom>
+    <rom name="sfiii2-simm3.4" size="2097152" crc="affb074f"></rom>
+    <rom name="sfiii2-simm3.5" size="2097152" crc="6962872e"></rom>
+    <rom name="sfiii2-simm3.6" size="2097152" crc="6eed87de"></rom>
+    <rom name="sfiii2-simm3.7" size="2097152" crc="e18f479e"></rom>
+    <rom name="sfiii2-simm4.0" size="2097152" crc="764c2503"></rom>
+    <rom name="sfiii2-simm4.1" size="2097152" crc="3e16af6e"></rom>
+    <rom name="sfiii2-simm4.2" size="2097152" crc="215705e6"></rom>
+    <rom name="sfiii2-simm4.3" size="2097152" crc="e30cbd9c"></rom>
+    <rom name="sfiii2-simm4.4" size="2097152" crc="4185ded9"></rom>
+    <rom name="sfiii2-simm4.5" size="2097152" crc="4e8db013"></rom>
+    <rom name="sfiii2-simm4.6" size="2097152" crc="08df48ce"></rom>
+    <rom name="sfiii2-simm4.7" size="2097152" crc="bb8f80a5"></rom>
+    <rom name="sfiii2-simm5.0" size="2097152" crc="ebdc4787"></rom>
+    <rom name="sfiii2-simm5.1" size="2097152" crc="6b7c550e"></rom>
+    <rom name="sfiii2-simm5.2" size="2097152" crc="56ff8c50"></rom>
+    <rom name="sfiii2-simm5.3" size="2097152" crc="3f2ac3e9"></rom>
+    <rom name="sfiii2-simm5.4" size="2097152" crc="48cda50e"></rom>
+    <rom name="sfiii2-simm5.5" size="2097152" crc="520c0af6"></rom>
+    <rom name="sfiii2-simm5.6" size="2097152" crc="2edc5986"></rom>
+    <rom name="sfiii2-simm5.7" size="2097152" crc="93ffa199"></rom>
+  </game>
+  <game name="sfiii3">
+    <description>Street Fighter III 3rd Strike: Fight for the Future (Euro 990608)</description>
+    <year>1999</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="sfiii3_euro.29f400.u2" size="524288" crc="30bbf293"></rom>
+    <rom name="sfiii3(__990608)-simm1.0" size="2097152" crc="11dfd3cd"></rom>
+    <rom name="sfiii3(__990608)-simm1.1" size="2097152" crc="c50585e6"></rom>
+    <rom name="sfiii3(__990608)-simm1.2" size="2097152" crc="8e011d9b"></rom>
+    <rom name="sfiii3(__990608)-simm1.3" size="2097152" crc="dca8d92f"></rom>
+    <rom name="sfiii3-simm2.0" size="2097152" crc="06eb969e"></rom>
+    <rom name="sfiii3-simm2.1" size="2097152" crc="e7039f82"></rom>
+    <rom name="sfiii3-simm2.2" size="2097152" crc="645c96f7"></rom>
+    <rom name="sfiii3-simm2.3" size="2097152" crc="610efab1"></rom>
+    <rom name="sfiii3-simm3.0" size="2097152" crc="7baa1f79"></rom>
+    <rom name="sfiii3-simm3.1" size="2097152" crc="234bf8fe"></rom>
+    <rom name="sfiii3-simm3.2" size="2097152" crc="d9ebc308"></rom>
+    <rom name="sfiii3-simm3.3" size="2097152" crc="293cba77"></rom>
+    <rom name="sfiii3-simm3.4" size="2097152" crc="6055e747"></rom>
+    <rom name="sfiii3-simm3.5" size="2097152" crc="499aa6fc"></rom>
+    <rom name="sfiii3-simm3.6" size="2097152" crc="6c13879e"></rom>
+    <rom name="sfiii3-simm3.7" size="2097152" crc="cf4f8ede"></rom>
+    <rom name="sfiii3-simm4.0" size="2097152" crc="091fd5ba"></rom>
+    <rom name="sfiii3-simm4.1" size="2097152" crc="0bca8917"></rom>
+    <rom name="sfiii3-simm4.2" size="2097152" crc="a0fd578b"></rom>
+    <rom name="sfiii3-simm4.3" size="2097152" crc="4bf8c699"></rom>
+    <rom name="sfiii3-simm4.4" size="2097152" crc="137b8785"></rom>
+    <rom name="sfiii3-simm4.5" size="2097152" crc="4fb70671"></rom>
+    <rom name="sfiii3-simm4.6" size="2097152" crc="832374a4"></rom>
+    <rom name="sfiii3-simm4.7" size="2097152" crc="1c88576d"></rom>
+    <rom name="sfiii3-simm5.0" size="2097152" crc="c67d9190"></rom>
+    <rom name="sfiii3-simm5.1" size="2097152" crc="6cb79868"></rom>
+    <rom name="sfiii3-simm5.2" size="2097152" crc="df69930e"></rom>
+    <rom name="sfiii3-simm5.3" size="2097152" crc="333754e0"></rom>
+    <rom name="sfiii3-simm5.4" size="2097152" crc="78f6d417"></rom>
+    <rom name="sfiii3-simm5.5" size="2097152" crc="8ccad9b1"></rom>
+    <rom name="sfiii3-simm5.6" size="2097152" crc="85de59e5"></rom>
+    <rom name="sfiii3-simm5.7" size="2097152" crc="ee7e29b3"></rom>
+    <rom name="sfiii3-simm6.0" size="2097152" crc="8da69042"></rom>
+    <rom name="sfiii3-simm6.1" size="2097152" crc="1c8c7ac4"></rom>
+    <rom name="sfiii3-simm6.2" size="2097152" crc="a671341d"></rom>
+    <rom name="sfiii3-simm6.3" size="2097152" crc="1a990249"></rom>
+    <rom name="sfiii3-simm6.4" size="2097152" crc="20cb39ac"></rom>
+    <rom name="sfiii3-simm6.5" size="2097152" crc="5f844b2f"></rom>
+    <rom name="sfiii3-simm6.6" size="2097152" crc="450e8d28"></rom>
+    <rom name="sfiii3-simm6.7" size="2097152" crc="cc5f4187"></rom>
+  </game>
+  <game name="sfiii">
+    <description>Street Fighter III: New Generation (USA 970204)</description>
+    <year>1997</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="sfiii_usa.29f400.u2" size="524288" crc="fb172a8e"></rom>
+    <rom name="sfiii-simm1.0" size="2097152" crc="cfc9e45a"></rom>
+    <rom name="sfiii-simm1.1" size="2097152" crc="57920546"></rom>
+    <rom name="sfiii-simm1.2" size="2097152" crc="0d8f2680"></rom>
+    <rom name="sfiii-simm1.3" size="2097152" crc="ea4ca054"></rom>
+    <rom name="sfiii-simm3.0" size="2097152" crc="080b3bd3"></rom>
+    <rom name="sfiii-simm3.1" size="2097152" crc="5c356f2f"></rom>
+    <rom name="sfiii-simm3.2" size="2097152" crc="f9c97a45"></rom>
+    <rom name="sfiii-simm3.3" size="2097152" crc="09de3ead"></rom>
+    <rom name="sfiii-simm3.4" size="2097152" crc="7dd7e1f3"></rom>
+    <rom name="sfiii-simm3.5" size="2097152" crc="47a03a3a"></rom>
+    <rom name="sfiii-simm3.6" size="2097152" crc="e9eb7a26"></rom>
+    <rom name="sfiii-simm3.7" size="2097152" crc="7f44395c"></rom>
+    <rom name="sfiii-simm4.0" size="2097152" crc="9ac080fc"></rom>
+    <rom name="sfiii-simm4.1" size="2097152" crc="6e2c4c94"></rom>
+    <rom name="sfiii-simm4.2" size="2097152" crc="8afc22d4"></rom>
+    <rom name="sfiii-simm4.3" size="2097152" crc="9f3873b8"></rom>
+    <rom name="sfiii-simm4.4" size="2097152" crc="166b3c97"></rom>
+    <rom name="sfiii-simm4.5" size="2097152" crc="e5ea2547"></rom>
+    <rom name="sfiii-simm4.6" size="2097152" crc="e85b9fdd"></rom>
+    <rom name="sfiii-simm4.7" size="2097152" crc="362c01b7"></rom>
+    <rom name="sfiii-simm5.0" size="2097152" crc="9bc108b2"></rom>
+    <rom name="sfiii-simm5.1" size="2097152" crc="c6f1c066"></rom>
+  </game>
+</datafile>
